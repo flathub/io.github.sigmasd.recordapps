@@ -1,6 +1,6 @@
 app-id: io.github.sigmasd.recordapps
 runtime: org.gnome.Platform
-runtime-version: "47"
+runtime-version: "48"
 sdk: org.gnome.Sdk
 command: run.sh
 finish-args:
@@ -14,8 +14,11 @@ finish-args:
 modules:
   - name: recordapps
     buildsystem: simple
+    build-options:
+      env:
+        DENORT_BIN: denort
     build-commands:
-      - DENORT_BIN=$PWD/denort ./deno compile -o record -A --include dist/ dist/webview.ts
+      - ./deno compile --vendor --no-check --cached-only  -o record -A --include dist/ dist/webview.ts
       - install -Dm755 record /app/bin/record
       - install -Dm755 run.sh /app/bin/run.sh
       - install -D libwebview.*.so -t /app/bin/
@@ -28,28 +31,28 @@ modules:
     sources:
       # app
       - type: archive
-        url: https://github.com/sigmaSd/recordapps/archive/refs/tags/1.8.2.tar.gz
-        sha256: 196fbcc45864973ca7a79cbdba4e5d19b9daa5cf582e2339cc5a207f2a2f5229
+        url: https://github.com/sigmaSd/recordapps/archive/refs/tags/1.8.3.tar.gz
+        sha256: 06fc9ff137077c448c88479a51a83e9536e8ddb6ad65ffee509875fb346f3a7b
 
       # deno
       - type: archive
-        url: https://github.com/denoland/deno/releases/download/v2.1.7/deno-x86_64-unknown-linux-gnu.zip
-        sha256: 8ea47ace85a2daadb60165d2aa519e11aef023d74441a24c4dc1d106dffdd19b
+        url: https://github.com/denoland/deno/releases/download/v2.3.1/deno-x86_64-unknown-linux-gnu.zip
+        sha256: b2920265e633215959b09a32b67f46c93362842bbfd27c96e8acc2d24b66f563
         only-arches:
           - x86_64
       - type: archive
-        url: https://github.com/denoland/deno/releases/download/v2.1.7/denort-x86_64-unknown-linux-gnu.zip
-        sha256: f00adc493667d5e414165d102d537023109dbd35d62b254566caa1485e0d2bd0
+        url: https://github.com/denoland/deno/releases/download/v2.3.1/denort-x86_64-unknown-linux-gnu.zip
+        sha256: 611c72c6e3de743c3f04eeb5f43cfb94dee7a232c7142d63f1967478bd220d11
         only-arches:
           - x86_64
       - type: archive
-        url: https://github.com/denoland/deno/releases/download/v2.1.7/deno-aarch64-unknown-linux-gnu.zip
-        sha256: fb37f230b55898660807247ea28a37afead40bc3713e2ee022a5c1e9476ac9aa
+        url: https://github.com/denoland/deno/releases/download/v2.3.1/deno-aarch64-unknown-linux-gnu.zip
+        sha256: 3771ede34037694591846166f6211e7a8ab5cd77a1e7143e637d4457e8708dc7
         only-arches:
           - aarch64
       - type: archive
-        url: https://github.com/denoland/deno/releases/download/v2.1.7/denort-aarch64-unknown-linux-gnu.zip
-        sha256: 0773c54ab7a76658a6d32067cec41d87f2845f1eaca1a057a35ad2590028e8e9
+        url: https://github.com/denoland/deno/releases/download/v2.3.1/denort-aarch64-unknown-linux-gnu.zip
+        sha256: bec92b837f50d0330a532a53fcbcf8383eed3d5e4575d893cca59c50d4724c1f
         only-arches:
           - aarch64
 
@@ -71,3 +74,5 @@ modules:
         commands:
           # https://discourse.gnome.org/t/how-to-fix-evolution-not-starting-after-update/25389
           - WEBKIT_DISABLE_SANDBOX_THIS_IS_DANGEROUS=1 PLUGIN_URL=/app/bin exec record "$@"
+
+      - deno-sources.json
