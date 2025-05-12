@@ -16,9 +16,12 @@ modules:
     buildsystem: simple
     build-options:
       env:
+        DENO_DIR: deno_dir
         DENORT_BIN: denort
     build-commands:
-      - ./deno compile --vendor --no-check --cached-only  -o record -A --include dist/ dist/webview.ts
+      -  # compile App
+      - ./deno task frontend:build
+      - ./deno compile --cached-only --vendor -o record --include src/webview/app.worker.ts --include src/dist -A src/webview/webview.ts
       - install -Dm755 record /app/bin/record
       - install -Dm755 run.sh /app/bin/run.sh
       - install -D libwebview.*.so -t /app/bin/
@@ -31,8 +34,8 @@ modules:
     sources:
       # app
       - type: archive
-        url: https://github.com/sigmaSd/recordapps/archive/refs/tags/1.8.3.tar.gz
-        sha256: 06fc9ff137077c448c88479a51a83e9536e8ddb6ad65ffee509875fb346f3a7b
+        url: https://github.com/sigmaSd/recordapps/archive/refs/tags/1.8.4.tar.gz
+        sha256: 74ea984b3be865b7a71a7f1458e8a15753d2d4b3d6692b6ef04faae1465d20b2
 
       # deno
       - type: archive
