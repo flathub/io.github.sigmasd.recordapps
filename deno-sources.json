@@ -1,428 +1,6 @@
 [
   {
     "type": "inline",
-    "contents": "{\"scope\":\"david\",\"name\":\"console-static-text\",\"latest\":\"0.3.0\",\"versions\":{}}",
-    "dest": "vendor/jsr.io/@david/console-static-text",
-    "dest-filename": "meta.json"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@david/console-static-text/0.3.0_meta.json",
-    "sha256": "2dfb46ecee525755f7989f94ece30bba85bd8ffe3e8666abc1bf926e1ee0698d",
-    "dest": "vendor/jsr.io/@david/console-static-text",
-    "dest-filename": "0.3.0_meta.json"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@david/console-static-text/0.3.0/lib/rs_lib.internal.js",
-    "sha256": "2521844e2db720255e28c14eb63c937cfe54c9aae60a9c4430e39507763e5058",
-    "dest": "vendor/jsr.io/@david/console-static-text/0.3.0/lib",
-    "dest-filename": "rs_lib.internal.js"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@david/console-static-text/0.3.0/mod.ts",
-    "sha256": "ce92bba3860eac46199bc96975730f9ae049ecaf89ad0f6c6f3e14a0efe16587",
-    "dest": "vendor/jsr.io/@david/console-static-text/0.3.0",
-    "dest-filename": "mod.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@david/console-static-text/0.3.0/lib/rs_lib.d.ts",
-    "sha256": "0d2c65a6b462ee3544c244fae45658d600774b383fc0bfb28a60fc07759443cc",
-    "dest": "vendor/jsr.io/@david/console-static-text/0.3.0/lib",
-    "dest-filename": "rs_lib.d.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@david/console-static-text/0.3.0/lib/rs_lib.js",
-    "sha256": "98fa69830c5e3346a5ed7a9687390d8f54b295fdd0bd76dd6f19a01d3d6a9d94",
-    "dest": "vendor/jsr.io/@david/console-static-text/0.3.0/lib",
-    "dest-filename": "rs_lib.js"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@david/console-static-text/0.3.0/deno.json",
-    "sha256": "bee06b2b73eae103daaf05741e5b71f82526a3bb9a67a5753787bd432e0cec78",
-    "dest": "vendor/jsr.io/@david/console-static-text/0.3.0",
-    "dest-filename": "deno.json"
-  },
-  {
-    "type": "inline",
-    "contents": "{\"scope\":\"david\",\"name\":\"dax\",\"latest\":\"0.45.0\",\"versions\":{}}",
-    "dest": "vendor/jsr.io/@david/dax",
-    "dest-filename": "meta.json"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@david/dax/0.43.2_meta.json",
-    "sha256": "8c7df175465d994c0e3568e3eb91102768c2f1c86d2a513d7fc4cab13f9cb328",
-    "dest": "vendor/jsr.io/@david/dax",
-    "dest-filename": "0.43.2_meta.json"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@david/dax/0.43.2/src/vendor/outdent.ts",
-    "sha256": "729618ac3308f05410ed51d97ac694829a7ee432ea7f513367f13aa494a439a4",
-    "dest": "vendor/jsr.io/@david/dax/0.43.2/src/vendor",
-    "dest-filename": "outdent.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@david/dax/0.43.2/src/commands/echo.ts",
-    "sha256": "ca9e870ad92821d74bdef229f43cfa4af55234ad6eda1a78a1f3ca2dff785703",
-    "dest": "vendor/jsr.io/@david/dax/0.43.2/src/commands",
-    "dest-filename": "echo.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@david/dax/0.43.2/src/commands/touch.ts",
-    "sha256": "c06463f1d9281f9daf36f44bc071621c054dafa3e78064d444ca230db5333990",
-    "dest": "vendor/jsr.io/@david/dax/0.43.2/src/commands",
-    "dest-filename": "touch.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@david/dax/0.43.2/src/commands/test.ts",
-    "sha256": "80e1e9c77347729489c783090d12f7dec21d21c58b0fe60dec02ea1b8b76bf3b",
-    "dest": "vendor/jsr.io/@david/dax/0.43.2/src/commands",
-    "dest-filename": "test.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@david/dax/0.43.2/src/runtimes/process.deno.ts",
-    "sha256": "dbaba3f11da204ceb8864d7df3358506ce1c3aca0e93d42bedcbd48da6957f1d",
-    "dest": "vendor/jsr.io/@david/dax/0.43.2/src/runtimes",
-    "dest-filename": "process.deno.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@david/dax/0.43.2/src/console/prompt.ts",
-    "sha256": "e1f16d5b8a3b3ae972644b7bffebec8bd8919eedbe0edc5990cc39110a8536bb",
-    "dest": "vendor/jsr.io/@david/dax/0.43.2/src/console",
-    "dest-filename": "prompt.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@david/dax/0.43.2/src/commands/executable.ts",
-    "sha256": "642b453dd87a3d8fa765bc0add274a836df6d84452740e8aba5865ad45a23f02",
-    "dest": "vendor/jsr.io/@david/dax/0.43.2/src/commands",
-    "dest-filename": "executable.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@david/dax/0.43.2/src/commands/unset.ts",
-    "sha256": "df4069b0636f69a77d93020f1914b2bc3c3d64a98c079afd958874b70a8e18c9",
-    "dest": "vendor/jsr.io/@david/dax/0.43.2/src/commands",
-    "dest-filename": "unset.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@david/dax/0.43.2/src/shell.ts",
-    "sha256": "a363c81f554569d50a95f5c5cc728d97c911e919e8c9adab06891247b92ae996",
-    "dest": "vendor/jsr.io/@david/dax/0.43.2/src",
-    "dest-filename": "shell.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@david/dax/0.43.2/src/runtimes/process.common.ts",
-    "sha256": "692afd5fa15f40ce452904fa5ce380462cee56fbee7abe271e509e78da997200",
-    "dest": "vendor/jsr.io/@david/dax/0.43.2/src/runtimes",
-    "dest-filename": "process.common.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@david/dax/0.43.2/src/commands/printenv.ts",
-    "sha256": "10b3dd65c2f016c4fa737b10db6fa3820dff780d8025efecff4f2d34ddeec713",
-    "dest": "vendor/jsr.io/@david/dax/0.43.2/src/commands",
-    "dest-filename": "printenv.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@david/dax/0.43.2/src/commands/export.ts",
-    "sha256": "9049cccd9c79b9fae8d6c42dc6a04667e985e4147de4849e1bee2d1e5e10119a",
-    "dest": "vendor/jsr.io/@david/dax/0.43.2/src/commands",
-    "dest-filename": "export.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@david/dax/0.43.2/src/lib/rs_lib.d.ts",
-    "sha256": "b5a9981015bc886f63ee2a1f8c0d4738c795b11f0d75813b3fd54d1071760e8e",
-    "dest": "vendor/jsr.io/@david/dax/0.43.2/src/lib",
-    "dest-filename": "rs_lib.d.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@david/dax/0.43.2/src/commands/mkdir.ts",
-    "sha256": "eddb219bcb514da54b2f38ddb7cef34df860d6f6280fd3583e6fece8355a5dcc",
-    "dest": "vendor/jsr.io/@david/dax/0.43.2/src/commands",
-    "dest-filename": "mkdir.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@david/dax/0.43.2/src/console/mod.ts",
-    "sha256": "dcc3951992e72aa4fe93005c673ad4a97fff87f2bdffb1a865bfa217e8272b4c",
-    "dest": "vendor/jsr.io/@david/dax/0.43.2/src/console",
-    "dest-filename": "mod.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@david/dax/0.43.2/src/result.ts",
-    "sha256": "719a9b4bc6bafeec785106744381cd5f37927c973334fcba6a33b6418fb9e7be",
-    "dest": "vendor/jsr.io/@david/dax/0.43.2/src",
-    "dest-filename": "result.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@david/dax/0.43.2/src/console/logger.ts",
-    "sha256": "ad2bd98713a4a6d8bb991a958c797b010bdbd8ad01e54929984280f7ccc565f9",
-    "dest": "vendor/jsr.io/@david/dax/0.43.2/src/console",
-    "dest-filename": "logger.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@david/dax/0.43.2/src/commands/rm.ts",
-    "sha256": "37fbe497c33874ecb890fd4ce6408c17ad5eb3e0ac3d6b2051bd6fead9bb8589",
-    "dest": "vendor/jsr.io/@david/dax/0.43.2/src/commands",
-    "dest-filename": "rm.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@david/dax/0.43.2/src/commands/cat.ts",
-    "sha256": "89d2164e43a9aa300b96f735765e691ce88eae373df8665b06edc8c3bd26ecef",
-    "dest": "vendor/jsr.io/@david/dax/0.43.2/src/commands",
-    "dest-filename": "cat.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@david/dax/0.43.2/src/command.ts",
-    "sha256": "753ba5ec136582b0a0781e3daa741294ac2b4683a9f1ad986321b6f55b33e494",
-    "dest": "vendor/jsr.io/@david/dax/0.43.2/src",
-    "dest-filename": "command.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@david/dax/0.43.2/src/commands/args.ts",
-    "sha256": "a138aef24294e3cbf13cef08f4836d018e8dd99fd06ad82e7e7f08ef680bbc1d",
-    "dest": "vendor/jsr.io/@david/dax/0.43.2/src/commands",
-    "dest-filename": "args.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@david/dax/0.43.2/src/commands/sleep.ts",
-    "sha256": "25f4398efa2bc8718c9562fab0fc0faeeef5f40deec63e1baec729abc806db46",
-    "dest": "vendor/jsr.io/@david/dax/0.43.2/src/commands",
-    "dest-filename": "sleep.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@david/dax/0.43.2/src/command_handler.ts",
-    "sha256": "33a0310f0bbb2e9d151e58fb1ad9c583bbb66e95dacc25119cf5390d2faa899b",
-    "dest": "vendor/jsr.io/@david/dax/0.43.2/src",
-    "dest-filename": "command_handler.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@david/dax/0.43.2/src/commands/pwd.ts",
-    "sha256": "a5cc057d8d3fb35de75d11af70f6fd52e1807b839ba5b9e03d91b132097563a4",
-    "dest": "vendor/jsr.io/@david/dax/0.43.2/src/commands",
-    "dest-filename": "pwd.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@david/dax/0.43.2/src/lib/rs_lib.internal.js",
-    "sha256": "7b9ec40f03f42e0a6773e2a53075782ec53ed53779497f351f4621e0b89767cc",
-    "dest": "vendor/jsr.io/@david/dax/0.43.2/src/lib",
-    "dest-filename": "rs_lib.internal.js"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@david/dax/0.43.2/src/console/multiSelect.ts",
-    "sha256": "e6712a8bc51de87e9ae40fac71825b67ba4a190f7bda52a2169d3291a6d7e315",
-    "dest": "vendor/jsr.io/@david/dax/0.43.2/src/console",
-    "dest-filename": "#multiselect_80760.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@david/dax/0.43.2/src/pipes.ts",
-    "sha256": "ce15e2ddc304f6f59df118096309fa3ea58b856d2d888448c6707c51f49f823b",
-    "dest": "vendor/jsr.io/@david/dax/0.43.2/src",
-    "dest-filename": "pipes.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@david/dax/0.43.2/src/console/utils.ts",
-    "sha256": "79360178d3d6dfd8bf98f87fb34d6bb36c12be540d79de88cbe5f02d46f9cbb4",
-    "dest": "vendor/jsr.io/@david/dax/0.43.2/src/console",
-    "dest-filename": "utils.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@david/dax/0.43.2/src/commands/exit.ts",
-    "sha256": "4f50903f6c9b564856c5371c7140837487c403b1368b577bd682cb31dd5451a3",
-    "dest": "vendor/jsr.io/@david/dax/0.43.2/src/commands",
-    "dest-filename": "exit.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@david/dax/0.43.2/src/common.ts",
-    "sha256": "0ef3415c5ac213150ab735577028caf3352cf7e6a6681a18de93d215670f24c0",
-    "dest": "vendor/jsr.io/@david/dax/0.43.2/src",
-    "dest-filename": "common.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@david/dax/0.43.2/src/console/progress.ts",
-    "sha256": "972dc4c0cc69798688be6ca233127f85b6b1f469ef28e8a99e2058039754ccc7",
-    "dest": "vendor/jsr.io/@david/dax/0.43.2/src/console",
-    "dest-filename": "progress.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@david/dax/0.43.2/src/commands/cp_mv.ts",
-    "sha256": "06cc4c911f8cab91535b7b7a128caf0c4a5aa31f24059e261334586a8328474a",
-    "dest": "vendor/jsr.io/@david/dax/0.43.2/src/commands",
-    "dest-filename": "cp_mv.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@david/dax/0.43.2/src/commands/which.ts",
-    "sha256": "a2c056a87bc3ef92567fda26ec684e9ff5fcf2a3e060b6cfb4c11bb8dda3bb53",
-    "dest": "vendor/jsr.io/@david/dax/0.43.2/src/commands",
-    "dest-filename": "which.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@david/dax/0.43.2/src/request.ts",
-    "sha256": "9eb4647b9c0708c10484112f3fb238bc6d1d504425ca66afe6670c5c46db2ff8",
-    "dest": "vendor/jsr.io/@david/dax/0.43.2/src",
-    "dest-filename": "request.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@david/dax/0.43.2/src/lib/rs_lib.js",
-    "sha256": "d20f6210c14b0c2e8f1885550201b62e07381935228e1709882acf75c7802819",
-    "dest": "vendor/jsr.io/@david/dax/0.43.2/src/lib",
-    "dest-filename": "rs_lib.js"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@david/dax/0.43.2/src/commands/cd.ts",
-    "sha256": "100d9c33b832b2c48735b4ad2fbb80c1954772029df85339b3163d71b7d58fd5",
-    "dest": "vendor/jsr.io/@david/dax/0.43.2/src/commands",
-    "dest-filename": "cd.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@david/dax/0.43.2/src/console/select.ts",
-    "sha256": "eed68fd90448e0d677f2cad3f91da15d16a31f778fb4bff75edc2a32b3978ddf",
-    "dest": "vendor/jsr.io/@david/dax/0.43.2/src/console",
-    "dest-filename": "select.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@david/dax/0.43.2/src/console/confirm.ts",
-    "sha256": "5cfa43b904a836797ff896733a5fb257d8ffe34b1e85988b8f2790a0a7d25b12",
-    "dest": "vendor/jsr.io/@david/dax/0.43.2/src/console",
-    "dest-filename": "confirm.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@david/dax/0.43.2/mod.ts",
-    "sha256": "84859ede26320ccd32f9a4ead95715a740192a674ba63d0795514d774660200a",
-    "dest": "vendor/jsr.io/@david/dax/0.43.2",
-    "dest-filename": "mod.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@david/dax/0.43.2/deno.json",
-    "sha256": "ca4f9228d32c6ea88b960dd5cac97a4d43d002ff90558b748f10c16f2789c034",
-    "dest": "vendor/jsr.io/@david/dax/0.43.2",
-    "dest-filename": "deno.json"
-  },
-  {
-    "type": "inline",
-    "contents": "{\"scope\":\"david\",\"name\":\"path\",\"latest\":\"0.2.0\",\"versions\":{}}",
-    "dest": "vendor/jsr.io/@david/path",
-    "dest-filename": "meta.json"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@david/path/0.2.0_meta.json",
-    "sha256": "f2d7aa7f02ce5a55e27c09f9f1381794acb09d328f8d3c8a2e3ab3ffc294dccd",
-    "dest": "vendor/jsr.io/@david/path",
-    "dest-filename": "0.2.0_meta.json"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@david/path/0.2.0/mod.ts",
-    "sha256": "12d643828ff9746cb1875d6e85afc350a298a5a0bd5e0d90b2f2311c3a7973d4",
-    "dest": "vendor/jsr.io/@david/path/0.2.0",
-    "dest-filename": "mod.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@david/path/0.2.0/deno.json",
-    "sha256": "bde0174461ecdca28c7837ac833025112ffedaccd88909254a13b7435ae908cd",
-    "dest": "vendor/jsr.io/@david/path/0.2.0",
-    "dest-filename": "deno.json"
-  },
-  {
-    "type": "inline",
-    "contents": "{\"scope\":\"david\",\"name\":\"temp\",\"latest\":\"0.1.1\",\"versions\":{}}",
-    "dest": "vendor/jsr.io/@david/temp",
-    "dest-filename": "meta.json"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@david/temp/0.1.1_meta.json",
-    "sha256": "3974e3aa76536bd831294b72f5b70bfb67af3f4119ae334360e321f6ded18840",
-    "dest": "vendor/jsr.io/@david/temp",
-    "dest-filename": "0.1.1_meta.json"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@david/temp/0.1.1/mod.ts",
-    "sha256": "799485e3e689b803964ff1def6090abb3ec677a2d62016fe7cd85579cf516c7c",
-    "dest": "vendor/jsr.io/@david/temp/0.1.1",
-    "dest-filename": "mod.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@david/temp/0.1.1/deno.json",
-    "sha256": "f21855e502af8946c24d13125ec28e8fd68bb5b6f33c5a42ede95d5eb47dfa4a",
-    "dest": "vendor/jsr.io/@david/temp/0.1.1",
-    "dest-filename": "deno.json"
-  },
-  {
-    "type": "inline",
-    "contents": "{\"scope\":\"david\",\"name\":\"which\",\"latest\":\"0.4.1\",\"versions\":{}}",
-    "dest": "vendor/jsr.io/@david/which",
-    "dest-filename": "meta.json"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@david/which/0.4.1_meta.json",
-    "sha256": "896a682b111f92ab866cc70c5b4afab2f5899d2f9bde31ed00203b9c250f225e",
-    "dest": "vendor/jsr.io/@david/which",
-    "dest-filename": "0.4.1_meta.json"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@david/which/0.4.1/mod.ts",
-    "sha256": "90d3d42150dc5ebb32916c9beac444ed0f5c39efd9439ea4ab1a1b1af2967c97",
-    "dest": "vendor/jsr.io/@david/which/0.4.1",
-    "dest-filename": "mod.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@david/which/0.4.1/deno.json",
-    "sha256": "2fd116851dd76b9cca7fb38a691e40a2990d1d6a0b7d028e19bb9f3f7a78d1de",
-    "dest": "vendor/jsr.io/@david/which/0.4.1",
-    "dest-filename": "deno.json"
-  },
-  {
-    "type": "inline",
     "contents": "{\"scope\":\"denosaurs\",\"name\":\"plug\",\"latest\":\"1.1.0\",\"versions\":{}}",
     "dest": "vendor/jsr.io/@denosaurs/plug",
     "dest-filename": "meta.json"
@@ -468,61 +46,6 @@
     "sha256": "2e6b9b9bc91f442856f5c0a9f405fcd72fa50e27e1d9849c5ee7e5dc6e8d28a6",
     "dest": "vendor/jsr.io/@denosaurs/plug/1.1.0",
     "dest-filename": "deno.json"
-  },
-  {
-    "type": "inline",
-    "contents": "{\"scope\":\"libs\",\"name\":\"xml\",\"latest\":\"7.0.3\",\"versions\":{}}",
-    "dest": "vendor/jsr.io/@libs/xml",
-    "dest-filename": "meta.json"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@libs/xml/7.0.2_meta.json",
-    "sha256": "b0f8eb46328cdfc443e89eeb02dce2a9022c292c6342f2cbddcad8cf06cd5adf",
-    "dest": "vendor/jsr.io/@libs/xml",
-    "dest-filename": "7.0.2_meta.json"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@libs/xml/7.0.2/wasm_xml_parser/wasm_xml_parser.js",
-    "sha256": "eabc84800bec1ee64f24fd22597a74d70b336e0cf172182e59d48a7ad2485b76",
-    "dest": "vendor/jsr.io/@libs/xml/7.0.2/wasm_xml_parser",
-    "dest-filename": "wasm_xml_parser.js"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@libs/xml/7.0.2/parse.ts",
-    "sha256": "8ae0d8339f589c29ab203dd7887e06325e2064efedfe9c61e2cd6d907443b664",
-    "dest": "vendor/jsr.io/@libs/xml/7.0.2",
-    "dest-filename": "parse.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@libs/xml/7.0.2/stringify.ts",
-    "sha256": "f604d3d88b8bdaff11dbc9d57a6e98fd9b353e3bfbafcaa3f421e6b470ea0e02",
-    "dest": "vendor/jsr.io/@libs/xml/7.0.2",
-    "dest-filename": "stringify.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@libs/xml/7.0.2/mod.ts",
-    "sha256": "ca2bb5a9a90d236a2b6242c8643717e0c53f645092d2407792dad728e1367f9a",
-    "dest": "vendor/jsr.io/@libs/xml/7.0.2",
-    "dest-filename": "mod.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@libs/xml/7.0.2/_types.ts",
-    "sha256": "203f97a91686f1aa9423ef07abe646da7caa07a2cf13b27897ffc4f43fdeae8f",
-    "dest": "vendor/jsr.io/@libs/xml/7.0.2",
-    "dest-filename": "_types.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@libs/xml/7.0.2/deno.jsonc",
-    "sha256": "1c4911865c42ac660c3f39be318b69a22f4c5d7228f0b73150d6ca374efcf37a",
-    "dest": "vendor/jsr.io/@libs/xml/7.0.2",
-    "dest-filename": "deno.jsonc"
   },
   {
     "type": "inline",
@@ -995,103 +518,6 @@
     "url": "https://jsr.io/@std/assert/1.0.18/deno.json",
     "sha256": "1226ac8a9f134105c8d321dfab23ac8fe9501c9965ec1ac0920e3ad4304f1654",
     "dest": "vendor/jsr.io/@std/assert/1.0.18",
-    "dest-filename": "deno.json"
-  },
-  {
-    "type": "inline",
-    "contents": "{\"scope\":\"std\",\"name\":\"bytes\",\"latest\":\"1.0.6\",\"versions\":{}}",
-    "dest": "vendor/jsr.io/@std/bytes",
-    "dest-filename": "meta.json"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/bytes/1.0.6_meta.json",
-    "sha256": "f6ac6adbd8ccd99314045f5703e23af0a68d7f7e58364b47d2c7f408aeb5820a",
-    "dest": "vendor/jsr.io/@std/bytes",
-    "dest-filename": "1.0.6_meta.json"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/bytes/1.0.6/concat.ts",
-    "sha256": "b10dc6291f8afb30f98aefd54002d21c961793c9aa18433301ab49d2a09976f1",
-    "dest": "vendor/jsr.io/@std/bytes/1.0.6",
-    "dest-filename": "concat.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/bytes/1.0.6/last_index_of_needle.ts",
-    "sha256": "7de3d9258dbcf96df3bb529b16024197e22bd8ffd6f4a6de6b89b721e58e5402",
-    "dest": "vendor/jsr.io/@std/bytes/1.0.6",
-    "dest-filename": "last_index_of_needle.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/bytes/1.0.6/includes_needle.ts",
-    "sha256": "c0e8d7b908d5a51e2fe1bbd587b17059d7a5ab33140f76d9ccfe8f5585c4b956",
-    "dest": "vendor/jsr.io/@std/bytes/1.0.6",
-    "dest-filename": "includes_needle.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/bytes/1.0.6/starts_with.ts",
-    "sha256": "17a59996ae8a2615b3171bd8e346e8d40daef665a1c8dfd1055c108cf1377405",
-    "dest": "vendor/jsr.io/@std/bytes/1.0.6",
-    "dest-filename": "starts_with.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/bytes/1.0.6/copy.ts",
-    "sha256": "e1c0262d3f0fa02b65cd923099d1f64ede3add3d79ca5b357e592c13aab26fae",
-    "dest": "vendor/jsr.io/@std/bytes/1.0.6",
-    "dest-filename": "copy.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/bytes/1.0.6/equals.ts",
-    "sha256": "dd20fd396e9affe44a89b7874ab806c4172c88dffd912c8e8c75ccbfcfe4590b",
-    "dest": "vendor/jsr.io/@std/bytes/1.0.6",
-    "dest-filename": "equals.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/bytes/1.0.6/_types.ts",
-    "sha256": "65db521a1e83079110f20ee8121218b7485afd9223634f03934a36e80304ddac",
-    "dest": "vendor/jsr.io/@std/bytes/1.0.6",
-    "dest-filename": "_types.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/bytes/1.0.6/index_of_needle.ts",
-    "sha256": "3b8be8e6cd3d2a7e492ba3b9b03c42225a0525f7a479ec26b9118d55d8c4b353",
-    "dest": "vendor/jsr.io/@std/bytes/1.0.6",
-    "dest-filename": "index_of_needle.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/bytes/1.0.6/mod.ts",
-    "sha256": "6d95057e767346ab0174550f57c78a6fb85841dc036772f6d9fdc78b052cca52",
-    "dest": "vendor/jsr.io/@std/bytes/1.0.6",
-    "dest-filename": "mod.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/bytes/1.0.6/repeat.ts",
-    "sha256": "026ad11cfa52d5e58f39f244ba80b24e46b54dc7b0c8e32e45cd54b5c82e7d1f",
-    "dest": "vendor/jsr.io/@std/bytes/1.0.6",
-    "dest-filename": "repeat.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/bytes/1.0.6/ends_with.ts",
-    "sha256": "c1dccad9c2416390b91cb9a27eb7fafff9fd05f425459d5731521e59707fabd1",
-    "dest": "vendor/jsr.io/@std/bytes/1.0.6",
-    "dest-filename": "ends_with.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/bytes/1.0.6/deno.json",
-    "sha256": "15c1aff834e416720820dc152325f036be4364d3ed88be32a1f63914b3c5d5e6",
-    "dest": "vendor/jsr.io/@std/bytes/1.0.6",
     "dest-filename": "deno.json"
   },
   {
@@ -2104,110 +1530,6 @@
   },
   {
     "type": "inline",
-    "contents": "{\"scope\":\"std\",\"name\":\"io\",\"latest\":\"0.225.3\",\"versions\":{}}",
-    "dest": "vendor/jsr.io/@std/io",
-    "dest-filename": "meta.json"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/io/0.225.3_meta.json",
-    "sha256": "27b07b591384d12d7b568f39e61dff966b8230559122df1e9fd11cc068f7ddd1",
-    "dest": "vendor/jsr.io/@std/io",
-    "dest-filename": "0.225.3_meta.json"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/io/0.225.3/to_readable_stream.ts",
-    "sha256": "0fe7757bb09ec77b61757dfdb209cd1879954c7f9bdfd3babaaf4391534475c4",
-    "dest": "vendor/jsr.io/@std/io/0.225.3",
-    "dest-filename": "to_readable_stream.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/io/0.225.3/read_all.ts",
-    "sha256": "a3d976adfc19d154f756b336ac1621fb0e492d7c139234f12df4955683ac4df4",
-    "dest": "vendor/jsr.io/@std/io/0.225.3",
-    "dest-filename": "read_all.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/io/0.225.3/iterate_reader.ts",
-    "sha256": "b8366f3c0995a1606382c11673b46e0d81b65cd3d0b250ba9815c2965905a84a",
-    "dest": "vendor/jsr.io/@std/io/0.225.3",
-    "dest-filename": "iterate_reader.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/io/0.225.3/write_all.ts",
-    "sha256": "1cbecdf5b7b92c6d6a02568f276d052bc07346d3710042bcddc4d59985e151a1",
-    "dest": "vendor/jsr.io/@std/io/0.225.3",
-    "dest-filename": "write_all.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/io/0.225.3/copy.ts",
-    "sha256": "c390c5f0048a9a8cfea75572c288282c6c8c93d88e5d03eae71e2161190e260a",
-    "dest": "vendor/jsr.io/@std/io/0.225.3",
-    "dest-filename": "copy.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/io/0.225.3/buffer.ts",
-    "sha256": "848a8f2da09d2bf32cba93f5b090cbb185009bbc38819f34ff7c1ad517c06a7e",
-    "dest": "vendor/jsr.io/@std/io/0.225.3",
-    "dest-filename": "buffer.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/io/0.225.3/_common.ts",
-    "sha256": "72bf05840528f7ed613a3e3efee8b5cd96e719eae8194eb50709ef1923453fa5",
-    "dest": "vendor/jsr.io/@std/io/0.225.3",
-    "dest-filename": "_common.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/io/0.225.3/reader_from_stream_reader.ts",
-    "sha256": "846e3d4d2abd8c76d0edcdf26cc23926470f9b8259a56460c9e9af2ebb067ffb",
-    "dest": "vendor/jsr.io/@std/io/0.225.3",
-    "dest-filename": "reader_from_stream_reader.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/io/0.225.3/to_writable_stream.ts",
-    "sha256": "fff6d9f40851da95ede715e0ed171c11b7b4a0f3cef998700c8e2f05b6d1cd22",
-    "dest": "vendor/jsr.io/@std/io/0.225.3",
-    "dest-filename": "to_writable_stream.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/io/0.225.3/types.ts",
-    "sha256": "3ad3f9a8e8fe88f81782669fff2d0a264ac2b17e06f2544df83a4ff49641c936",
-    "dest": "vendor/jsr.io/@std/io/0.225.3",
-    "dest-filename": "types.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/io/0.225.3/mod.ts",
-    "sha256": "5d76e6c9c4d7d0b5859d34f8805bc82597c8ab65296cdd90f40a3ff2247dd96e",
-    "dest": "vendor/jsr.io/@std/io/0.225.3",
-    "dest-filename": "mod.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/io/0.225.3/_constants.ts",
-    "sha256": "a989b073c6698f779e29dfb00558992cfdf9da684af9bd354a7d860b751f8b1a",
-    "dest": "vendor/jsr.io/@std/io/0.225.3",
-    "dest-filename": "_constants.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/io/0.225.3/deno.json",
-    "sha256": "e1105c6bb0408c5e5389bd59cd55e082af930d08b1c03a2b334654ffda7a441f",
-    "dest": "vendor/jsr.io/@std/io/0.225.3",
-    "dest-filename": "deno.json"
-  },
-  {
-    "type": "inline",
     "contents": "{\"scope\":\"std\",\"name\":\"media-types\",\"latest\":\"1.1.0\",\"versions\":{}}",
     "dest": "vendor/jsr.io/@std/media-types",
     "dest-filename": "meta.json"
@@ -3141,6 +2463,134 @@
   },
   {
     "type": "inline",
+    "contents": "{\"name\":\"@esbuild/aix-ppc64\",\"dist-tags\":{},\"versions\":{\"0.27.3\":{\"name\":\"@esbuild/aix-ppc64\",\"version\":\"0.27.3\",\"description\":\"The IBM AIX PowerPC 64-bit binary for esbuild, a JavaScript bundler.\",\"repository\":{\"type\":\"git\",\"url\":\"git+https://github.com/evanw/esbuild.git\"},\"license\":\"MIT\",\"preferUnplugged\":true,\"engines\":{\"node\":\">=18\"},\"os\":[\"aix\"],\"cpu\":[\"ppc64\"],\"_id\":\"@esbuild/aix-ppc64@0.27.3\",\"gitHead\":\"9129e00e6c36a3e374820cb5e3fc2cd319c8ab85\",\"bugs\":{\"url\":\"https://github.com/evanw/esbuild/issues\"},\"homepage\":\"https://github.com/evanw/esbuild#readme\",\"_nodeVersion\":\"24.13.0\",\"_npmVersion\":\"11.5.1\",\"dist\":{\"integrity\":\"sha512-9fJMTNFTWZMh5qwrBItuziu834eOCUcEqymSH7pY+zoMVEZg3gcPuBNxH1EvfVYe9h0x/Ptw8KBzv7qxb7l8dg==\",\"shasum\":\"815b39267f9bffd3407ea6c376ac32946e24f8d2\",\"tarball\":\"https://registry.npmjs.org/@esbuild/aix-ppc64/-/aix-ppc64-0.27.3.tgz\",\"fileCount\":3,\"unpackedSize\":12362719,\"attestations\":{\"url\":\"https://registry.npmjs.org/-/npm/v1/attestations/@esbuild%2faix-ppc64@0.27.3\",\"provenance\":{\"predicateType\":\"https://slsa.dev/provenance/v1\"}},\"signatures\":[{\"keyid\":\"SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U\",\"sig\":\"MEQCIAYhuFPPr8fbCgiZliJ3kt2+h1KuXvl3KVf+GJCwrx8qAiB5MoS1r5m0rVmgtX/zh+mWF60/E2Akgaf+VUSqT8dXSw==\"}]},\"_npmUser\":{\"name\":\"GitHub Actions\",\"email\":\"npm-oidc-no-reply@github.com\",\"trustedPublisher\":{\"id\":\"github\",\"oidcConfigId\":\"oidc:220911b2-8b4a-434e-9a00-66a99610cf47\"}},\"directories\":{},\"maintainers\":[{\"name\":\"esbuild\",\"email\":\"evan.exe+esbuild@gmail.com\"}],\"_npmOperationalInternal\":{\"host\":\"s3://npm-registry-packages-npm-production\",\"tmp\":\"tmp/aix-ppc64_0.27.3_1770328880717_0.5695017564321381\"},\"_hasShrinkwrap\":false}}}",
+    "dest": "deno_dir/npm/registry.npmjs.org/@esbuild/aix-ppc64",
+    "dest-filename": "registry.json"
+  },
+  {
+    "type": "archive",
+    "archive-type": "tar-gzip",
+    "url": "https://registry.npmjs.org/@esbuild/aix-ppc64/-/aix-ppc64-0.27.3.tgz",
+    "sha512": "f5f24c4cd153599321e6ac2b048b6ece2bbcdf878e094704ab29921fba58fb3a0c544660de070fb813711f512f7d561ef61d31fcfb70f0a073bfbab16fb97c76",
+    "dest": "deno_dir/npm/registry.npmjs.org/@esbuild/aix-ppc64/0.27.3",
+    "only-arches": [
+      "ppc64"
+    ]
+  },
+  {
+    "type": "inline",
+    "contents": "{\"name\":\"@esbuild/android-arm64\",\"dist-tags\":{},\"versions\":{\"0.27.3\":{\"name\":\"@esbuild/android-arm64\",\"version\":\"0.27.3\",\"description\":\"The Android ARM 64-bit binary for esbuild, a JavaScript bundler.\",\"repository\":{\"type\":\"git\",\"url\":\"git+https://github.com/evanw/esbuild.git\"},\"license\":\"MIT\",\"preferUnplugged\":true,\"engines\":{\"node\":\">=18\"},\"os\":[\"android\"],\"cpu\":[\"arm64\"],\"_id\":\"@esbuild/android-arm64@0.27.3\",\"gitHead\":\"9129e00e6c36a3e374820cb5e3fc2cd319c8ab85\",\"bugs\":{\"url\":\"https://github.com/evanw/esbuild/issues\"},\"homepage\":\"https://github.com/evanw/esbuild#readme\",\"_nodeVersion\":\"24.13.0\",\"_npmVersion\":\"11.5.1\",\"dist\":{\"integrity\":\"sha512-YdghPYUmj/FX2SYKJ0OZxf+iaKgMsKHVPF1MAq/P8WirnSpCStzKJFjOjzsW0QQ7oIAiccHdcqjbHmJxRb/dmg==\",\"shasum\":\"19b882408829ad8e12b10aff2840711b2da361e8\",\"tarball\":\"https://registry.npmjs.org/@esbuild/android-arm64/-/android-arm64-0.27.3.tgz\",\"fileCount\":3,\"unpackedSize\":11338614,\"attestations\":{\"url\":\"https://registry.npmjs.org/-/npm/v1/attestations/@esbuild%2fandroid-arm64@0.27.3\",\"provenance\":{\"predicateType\":\"https://slsa.dev/provenance/v1\"}},\"signatures\":[{\"keyid\":\"SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U\",\"sig\":\"MEYCIQCWNb/gziQM0f+qoS4E7od5ESosvgM+LKuTZxDInR528AIhAKbVsTV0dEjjW9r1mQVgth2v8MNuwT+2twAPkeS8pSDN\"}]},\"_npmUser\":{\"name\":\"GitHub Actions\",\"email\":\"npm-oidc-no-reply@github.com\",\"trustedPublisher\":{\"id\":\"github\",\"oidcConfigId\":\"oidc:94785463-b478-4ada-aede-b3f626020ab2\"}},\"directories\":{},\"maintainers\":[{\"name\":\"esbuild\",\"email\":\"evan.exe+esbuild@gmail.com\"}],\"_npmOperationalInternal\":{\"host\":\"s3://npm-registry-packages-npm-production\",\"tmp\":\"tmp/android-arm64_0.27.3_1770328891320_0.45337606046964507\"},\"_hasShrinkwrap\":false}}}",
+    "dest": "deno_dir/npm/registry.npmjs.org/@esbuild/android-arm64",
+    "dest-filename": "registry.json"
+  },
+  {
+    "type": "archive",
+    "archive-type": "tar-gzip",
+    "url": "https://registry.npmjs.org/@esbuild/android-arm64/-/android-arm64-0.27.3.tgz",
+    "sha512": "61d8213d85268ff157d9260a274399c5ffa268a80cb0a1d53c5d4c02afcff168ab9d2a424adcca2458ce8f3b16d1043ba0802271c1dd72a8db1e627145bfdd9a",
+    "dest": "deno_dir/npm/registry.npmjs.org/@esbuild/android-arm64/0.27.3",
+    "only-arches": [
+      "aarch64"
+    ]
+  },
+  {
+    "type": "inline",
+    "contents": "{\"name\":\"@esbuild/android-arm\",\"dist-tags\":{},\"versions\":{\"0.27.3\":{\"name\":\"@esbuild/android-arm\",\"version\":\"0.27.3\",\"description\":\"A WebAssembly shim for esbuild on Android ARM.\",\"repository\":{\"type\":\"git\",\"url\":\"git+https://github.com/evanw/esbuild.git\"},\"license\":\"MIT\",\"preferUnplugged\":true,\"engines\":{\"node\":\">=18\"},\"os\":[\"android\"],\"cpu\":[\"arm\"],\"_id\":\"@esbuild/android-arm@0.27.3\",\"gitHead\":\"9129e00e6c36a3e374820cb5e3fc2cd319c8ab85\",\"bugs\":{\"url\":\"https://github.com/evanw/esbuild/issues\"},\"homepage\":\"https://github.com/evanw/esbuild#readme\",\"_nodeVersion\":\"24.13.0\",\"_npmVersion\":\"11.5.1\",\"dist\":{\"integrity\":\"sha512-i5D1hPY7GIQmXlXhs2w8AWHhenb00+GxjxRncS2ZM7YNVGNfaMxgzSGuO8o8SJzRc/oZwU2bcScvVERk03QhzA==\",\"shasum\":\"90be58de27915efa27b767fcbdb37a4470627d7b\",\"tarball\":\"https://registry.npmjs.org/@esbuild/android-arm/-/android-arm-0.27.3.tgz\",\"fileCount\":6,\"unpackedSize\":13546981,\"attestations\":{\"url\":\"https://registry.npmjs.org/-/npm/v1/attestations/@esbuild%2fandroid-arm@0.27.3\",\"provenance\":{\"predicateType\":\"https://slsa.dev/provenance/v1\"}},\"signatures\":[{\"keyid\":\"SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U\",\"sig\":\"MEQCIBRRK/YNJZWJjfeCpE24G0IrxBM3wd5HgE52EmJGv0MkAiAvp96ZrxO9WJPHW1qS1arevBUNNMKTKLMZY/XuBoJ35g==\"}]},\"_npmUser\":{\"name\":\"GitHub Actions\",\"email\":\"npm-oidc-no-reply@github.com\",\"trustedPublisher\":{\"id\":\"github\",\"oidcConfigId\":\"oidc:95be39a7-7bf4-44fe-a23b-87e234247fbb\"}},\"directories\":{},\"maintainers\":[{\"name\":\"esbuild\",\"email\":\"evan.exe+esbuild@gmail.com\"}],\"_npmOperationalInternal\":{\"host\":\"s3://npm-registry-packages-npm-production\",\"tmp\":\"tmp/android-arm_0.27.3_1770328886159_0.7985360405449393\"},\"_hasShrinkwrap\":false}}}",
+    "dest": "deno_dir/npm/registry.npmjs.org/@esbuild/android-arm",
+    "dest-filename": "registry.json"
+  },
+  {
+    "type": "archive",
+    "archive-type": "tar-gzip",
+    "url": "https://registry.npmjs.org/@esbuild/android-arm/-/android-arm-0.27.3.tgz",
+    "sha512": "8b90f584f63b1884265e55e1b36c3c0161e17a76f4d3e1b18f1467712d9933b60d54635f68cc60cd21ae3bca3c489cd173fa19c14d9b71272f544464d37421cc",
+    "dest": "deno_dir/npm/registry.npmjs.org/@esbuild/android-arm/0.27.3",
+    "only-arches": [
+      "arm"
+    ]
+  },
+  {
+    "type": "inline",
+    "contents": "{\"name\":\"@esbuild/android-x64\",\"dist-tags\":{},\"versions\":{\"0.27.3\":{\"name\":\"@esbuild/android-x64\",\"version\":\"0.27.3\",\"description\":\"A WebAssembly shim for esbuild on Android x64.\",\"repository\":{\"type\":\"git\",\"url\":\"git+https://github.com/evanw/esbuild.git\"},\"license\":\"MIT\",\"preferUnplugged\":true,\"engines\":{\"node\":\">=18\"},\"os\":[\"android\"],\"cpu\":[\"x64\"],\"_id\":\"@esbuild/android-x64@0.27.3\",\"gitHead\":\"9129e00e6c36a3e374820cb5e3fc2cd319c8ab85\",\"bugs\":{\"url\":\"https://github.com/evanw/esbuild/issues\"},\"homepage\":\"https://github.com/evanw/esbuild#readme\",\"_nodeVersion\":\"24.13.0\",\"_npmVersion\":\"11.5.1\",\"dist\":{\"integrity\":\"sha512-IN/0BNTkHtk8lkOM8JWAYFg4ORxBkZQf9zXiEOfERX/CzxW3Vg1ewAhU7QSWQpVIzTW+b8Xy+lGzdYXV6UZObQ==\",\"shasum\":\"d7dcc976f16e01a9aaa2f9b938fbec7389f895ac\",\"tarball\":\"https://registry.npmjs.org/@esbuild/android-x64/-/android-x64-0.27.3.tgz\",\"fileCount\":6,\"unpackedSize\":13546981,\"attestations\":{\"url\":\"https://registry.npmjs.org/-/npm/v1/attestations/@esbuild%2fandroid-x64@0.27.3\",\"provenance\":{\"predicateType\":\"https://slsa.dev/provenance/v1\"}},\"signatures\":[{\"keyid\":\"SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U\",\"sig\":\"MEUCIQCSK6/bUTdvQHumdC/83wAtdy9rIWf3vXxNQYY3pY8AeQIgWhaeXMBmvcVdZh2viNOQ3NzKw0VVPQHKdq7zFuS6m7s=\"}]},\"_npmUser\":{\"name\":\"GitHub Actions\",\"email\":\"npm-oidc-no-reply@github.com\",\"trustedPublisher\":{\"id\":\"github\",\"oidcConfigId\":\"oidc:96543647-c3bb-4d8d-9f98-255cae42164c\"}},\"directories\":{},\"maintainers\":[{\"name\":\"esbuild\",\"email\":\"evan.exe+esbuild@gmail.com\"}],\"_npmOperationalInternal\":{\"host\":\"s3://npm-registry-packages-npm-production\",\"tmp\":\"tmp/android-x64_0.27.3_1770328896926_0.37441617560380447\"},\"_hasShrinkwrap\":false}}}",
+    "dest": "deno_dir/npm/registry.npmjs.org/@esbuild/android-x64",
+    "dest-filename": "registry.json"
+  },
+  {
+    "type": "archive",
+    "archive-type": "tar-gzip",
+    "url": "https://registry.npmjs.org/@esbuild/android-x64/-/android-x64-0.27.3.tgz",
+    "sha512": "20dff404d4e41ed93c96438cf09580605838391c4191941ff735e210e7c4457fc2cf15b7560d5ec00854ed0496429548cd35be6fc5f2fa51b37585d5e9464e6d",
+    "dest": "deno_dir/npm/registry.npmjs.org/@esbuild/android-x64/0.27.3",
+    "only-arches": [
+      "x86_64"
+    ]
+  },
+  {
+    "type": "inline",
+    "contents": "{\"name\":\"@esbuild/darwin-arm64\",\"dist-tags\":{},\"versions\":{\"0.27.3\":{\"name\":\"@esbuild/darwin-arm64\",\"version\":\"0.27.3\",\"description\":\"The macOS ARM 64-bit binary for esbuild, a JavaScript bundler.\",\"repository\":{\"type\":\"git\",\"url\":\"git+https://github.com/evanw/esbuild.git\"},\"license\":\"MIT\",\"preferUnplugged\":true,\"engines\":{\"node\":\">=18\"},\"os\":[\"darwin\"],\"cpu\":[\"arm64\"],\"_id\":\"@esbuild/darwin-arm64@0.27.3\",\"gitHead\":\"9129e00e6c36a3e374820cb5e3fc2cd319c8ab85\",\"bugs\":{\"url\":\"https://github.com/evanw/esbuild/issues\"},\"homepage\":\"https://github.com/evanw/esbuild#readme\",\"_nodeVersion\":\"24.13.0\",\"_npmVersion\":\"11.5.1\",\"dist\":{\"integrity\":\"sha512-Re491k7ByTVRy0t3EKWajdLIr0gz2kKKfzafkth4Q8A5n1xTHrkqZgLLjFEHVD+AXdUGgQMq+Godfq45mGpCKg==\",\"shasum\":\"9f6cac72b3a8532298a6a4493ed639a8988e8abd\",\"tarball\":\"https://registry.npmjs.org/@esbuild/darwin-arm64/-/darwin-arm64-0.27.3.tgz\",\"fileCount\":3,\"unpackedSize\":10385697,\"attestations\":{\"url\":\"https://registry.npmjs.org/-/npm/v1/attestations/@esbuild%2fdarwin-arm64@0.27.3\",\"provenance\":{\"predicateType\":\"https://slsa.dev/provenance/v1\"}},\"signatures\":[{\"keyid\":\"SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U\",\"sig\":\"MEYCIQDJAL0XqpawrX0c7TURlqRdJV1REXF5q9YC8b1KSVp3EwIhAMtmrR6jnTZDZNJuENr1ON89NRu39L5ismJhdzlVs83b\"}]},\"_npmUser\":{\"name\":\"GitHub Actions\",\"email\":\"npm-oidc-no-reply@github.com\",\"trustedPublisher\":{\"id\":\"github\",\"oidcConfigId\":\"oidc:ace8cb45-370d-4d0e-a4dd-1c01417c8e74\"}},\"directories\":{},\"maintainers\":[{\"name\":\"esbuild\",\"email\":\"evan.exe+esbuild@gmail.com\"}],\"_npmOperationalInternal\":{\"host\":\"s3://npm-registry-packages-npm-production\",\"tmp\":\"tmp/darwin-arm64_0.27.3_1770328902178_0.8450544249399394\"},\"_hasShrinkwrap\":false}}}",
+    "dest": "deno_dir/npm/registry.npmjs.org/@esbuild/darwin-arm64",
+    "dest-filename": "registry.json"
+  },
+  {
+    "type": "archive",
+    "archive-type": "tar-gzip",
+    "url": "https://registry.npmjs.org/@esbuild/darwin-arm64/-/darwin-arm64-0.27.3.tgz",
+    "sha512": "45ee3dd64ec1c93551cb4b7710a59a8dd2c8af4833da428a7f369f92d87843c0399f5c531eb92a6602cb8c5107543f805dd50681032af86a1d7eae39986a422a",
+    "dest": "deno_dir/npm/registry.npmjs.org/@esbuild/darwin-arm64/0.27.3",
+    "only-arches": [
+      "aarch64"
+    ]
+  },
+  {
+    "type": "inline",
+    "contents": "{\"name\":\"@esbuild/darwin-x64\",\"dist-tags\":{},\"versions\":{\"0.27.3\":{\"name\":\"@esbuild/darwin-x64\",\"version\":\"0.27.3\",\"description\":\"The macOS 64-bit binary for esbuild, a JavaScript bundler.\",\"repository\":{\"type\":\"git\",\"url\":\"git+https://github.com/evanw/esbuild.git\"},\"license\":\"MIT\",\"preferUnplugged\":true,\"engines\":{\"node\":\">=18\"},\"os\":[\"darwin\"],\"cpu\":[\"x64\"],\"_id\":\"@esbuild/darwin-x64@0.27.3\",\"gitHead\":\"9129e00e6c36a3e374820cb5e3fc2cd319c8ab85\",\"bugs\":{\"url\":\"https://github.com/evanw/esbuild/issues\"},\"homepage\":\"https://github.com/evanw/esbuild#readme\",\"_nodeVersion\":\"24.13.0\",\"_npmVersion\":\"11.5.1\",\"dist\":{\"integrity\":\"sha512-vHk/hA7/1AckjGzRqi6wbo+jaShzRowYip6rt6q7VYEDX4LEy1pZfDpdxCBnGtl+A5zq8iXDcyuxwtv3hNtHFg==\",\"shasum\":\"ac61d645faa37fd650340f1866b0812e1fb14d6a\",\"tarball\":\"https://registry.npmjs.org/@esbuild/darwin-x64/-/darwin-x64-0.27.3.tgz\",\"fileCount\":3,\"unpackedSize\":11329315,\"attestations\":{\"url\":\"https://registry.npmjs.org/-/npm/v1/attestations/@esbuild%2fdarwin-x64@0.27.3\",\"provenance\":{\"predicateType\":\"https://slsa.dev/provenance/v1\"}},\"signatures\":[{\"keyid\":\"SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U\",\"sig\":\"MEUCIDdcCMnpR/VDfCsw3dFb+17HBtiIT47ecBsGgZ0Wgm2xAiEAllyua8dGj7ymv68Ezkbd2Dg94QIh8PEUBmrG7KaQAD8=\"}]},\"_npmUser\":{\"name\":\"GitHub Actions\",\"email\":\"npm-oidc-no-reply@github.com\",\"trustedPublisher\":{\"id\":\"github\",\"oidcConfigId\":\"oidc:4a2c41be-4fdc-4fa4-85ff-a76ef8818780\"}},\"directories\":{},\"maintainers\":[{\"name\":\"esbuild\",\"email\":\"evan.exe+esbuild@gmail.com\"}],\"_npmOperationalInternal\":{\"host\":\"s3://npm-registry-packages-npm-production\",\"tmp\":\"tmp/darwin-x64_0.27.3_1770328907431_0.5586618468223543\"},\"_hasShrinkwrap\":false}}}",
+    "dest": "deno_dir/npm/registry.npmjs.org/@esbuild/darwin-x64",
+    "dest-filename": "registry.json"
+  },
+  {
+    "type": "archive",
+    "archive-type": "tar-gzip",
+    "url": "https://registry.npmjs.org/@esbuild/darwin-x64/-/darwin-x64-0.27.3.tgz",
+    "sha512": "bc793f840effd407248c6cd1aa2eb06e8fa3692873468c188a9eabb7aabb5581035f82c4cb5a597c3a5dc420671ad97e039ceaf225c3732bb1c2dbf784db4716",
+    "dest": "deno_dir/npm/registry.npmjs.org/@esbuild/darwin-x64/0.27.3",
+    "only-arches": [
+      "x86_64"
+    ]
+  },
+  {
+    "type": "inline",
+    "contents": "{\"name\":\"@esbuild/freebsd-arm64\",\"dist-tags\":{},\"versions\":{\"0.27.3\":{\"name\":\"@esbuild/freebsd-arm64\",\"version\":\"0.27.3\",\"description\":\"The FreeBSD ARM 64-bit binary for esbuild, a JavaScript bundler.\",\"repository\":{\"type\":\"git\",\"url\":\"git+https://github.com/evanw/esbuild.git\"},\"license\":\"MIT\",\"preferUnplugged\":true,\"engines\":{\"node\":\">=18\"},\"os\":[\"freebsd\"],\"cpu\":[\"arm64\"],\"_id\":\"@esbuild/freebsd-arm64@0.27.3\",\"gitHead\":\"9129e00e6c36a3e374820cb5e3fc2cd319c8ab85\",\"bugs\":{\"url\":\"https://github.com/evanw/esbuild/issues\"},\"homepage\":\"https://github.com/evanw/esbuild#readme\",\"_nodeVersion\":\"24.13.0\",\"_npmVersion\":\"11.5.1\",\"dist\":{\"integrity\":\"sha512-ipTYM2fjt3kQAYOvo6vcxJx3nBYAzPjgTCk7QEgZG8AUO3ydUhvelmhrbOheMnGOlaSFUoHXB6un+A7q4ygY9w==\",\"shasum\":\"b8625689d73cf1830fe58c39051acdc12474ea1b\",\"tarball\":\"https://registry.npmjs.org/@esbuild/freebsd-arm64/-/freebsd-arm64-0.27.3.tgz\",\"fileCount\":3,\"unpackedSize\":10093271,\"attestations\":{\"url\":\"https://registry.npmjs.org/-/npm/v1/attestations/@esbuild%2ffreebsd-arm64@0.27.3\",\"provenance\":{\"predicateType\":\"https://slsa.dev/provenance/v1\"}},\"signatures\":[{\"keyid\":\"SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U\",\"sig\":\"MEUCIQC1I4SdGNPPXWLS5mD+FGFg7n9+gPjilCit+3IlTuzafgIgGF+AxzxKyV31nsmPmirc2fFcs8UfZEAEfqDK47htGJo=\"}]},\"_npmUser\":{\"name\":\"GitHub Actions\",\"email\":\"npm-oidc-no-reply@github.com\",\"trustedPublisher\":{\"id\":\"github\",\"oidcConfigId\":\"oidc:db44b292-d240-4497-8e4e-97ca577f410c\"}},\"directories\":{},\"maintainers\":[{\"name\":\"esbuild\",\"email\":\"evan.exe+esbuild@gmail.com\"}],\"_npmOperationalInternal\":{\"host\":\"s3://npm-registry-packages-npm-production\",\"tmp\":\"tmp/freebsd-arm64_0.27.3_1770328912641_0.3781388455345347\"},\"_hasShrinkwrap\":false}}}",
+    "dest": "deno_dir/npm/registry.npmjs.org/@esbuild/freebsd-arm64",
+    "dest-filename": "registry.json"
+  },
+  {
+    "type": "archive",
+    "archive-type": "tar-gzip",
+    "url": "https://registry.npmjs.org/@esbuild/freebsd-arm64/-/freebsd-arm64-0.27.3.tgz",
+    "sha512": "8a94d83367e3b779100183afa3abdcc49c779c1600ccf8e04c293b4048191bc0143b7c9d521bde96686b6ce85e32718e95a4855281d707aba7f80eeae32818f7",
+    "dest": "deno_dir/npm/registry.npmjs.org/@esbuild/freebsd-arm64/0.27.3",
+    "only-arches": [
+      "aarch64"
+    ]
+  },
+  {
+    "type": "inline",
+    "contents": "{\"name\":\"@esbuild/freebsd-x64\",\"dist-tags\":{},\"versions\":{\"0.27.3\":{\"name\":\"@esbuild/freebsd-x64\",\"version\":\"0.27.3\",\"description\":\"The FreeBSD 64-bit binary for esbuild, a JavaScript bundler.\",\"repository\":{\"type\":\"git\",\"url\":\"git+https://github.com/evanw/esbuild.git\"},\"license\":\"MIT\",\"preferUnplugged\":true,\"engines\":{\"node\":\">=18\"},\"os\":[\"freebsd\"],\"cpu\":[\"x64\"],\"_id\":\"@esbuild/freebsd-x64@0.27.3\",\"gitHead\":\"9129e00e6c36a3e374820cb5e3fc2cd319c8ab85\",\"bugs\":{\"url\":\"https://github.com/evanw/esbuild/issues\"},\"homepage\":\"https://github.com/evanw/esbuild#readme\",\"_nodeVersion\":\"24.13.0\",\"_npmVersion\":\"11.5.1\",\"dist\":{\"integrity\":\"sha512-dDk0X87T7mI6U3K9VjWtHOXqwAMJBNN2r7bejDsc+j03SEjtD9HrOl8gVFByeM0aJksoUuUVU9TBaZa2rgj0oA==\",\"shasum\":\"07be7dd3c9d42fe0eccd2ab9f9ded780bc53bead\",\"tarball\":\"https://registry.npmjs.org/@esbuild/freebsd-x64/-/freebsd-x64-0.27.3.tgz\",\"fileCount\":3,\"unpackedSize\":11059915,\"attestations\":{\"url\":\"https://registry.npmjs.org/-/npm/v1/attestations/@esbuild%2ffreebsd-x64@0.27.3\",\"provenance\":{\"predicateType\":\"https://slsa.dev/provenance/v1\"}},\"signatures\":[{\"keyid\":\"SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U\",\"sig\":\"MEQCIEoVne5oROWFxDaoMVx4YZV9hYTgnbXN4N0Z4cXVGAxcAiABYlAoYH89amFhJNktk81dTBrCsME/sK4WmfQijBpCsQ==\"}]},\"_npmUser\":{\"name\":\"GitHub Actions\",\"email\":\"npm-oidc-no-reply@github.com\",\"trustedPublisher\":{\"id\":\"github\",\"oidcConfigId\":\"oidc:d785cd15-d409-4643-8419-107debd72892\"}},\"directories\":{},\"maintainers\":[{\"name\":\"esbuild\",\"email\":\"evan.exe+esbuild@gmail.com\"}],\"_npmOperationalInternal\":{\"host\":\"s3://npm-registry-packages-npm-production\",\"tmp\":\"tmp/freebsd-x64_0.27.3_1770328918330_0.365865286883561\"},\"_hasShrinkwrap\":false}}}",
+    "dest": "deno_dir/npm/registry.npmjs.org/@esbuild/freebsd-x64",
+    "dest-filename": "registry.json"
+  },
+  {
+    "type": "archive",
+    "archive-type": "tar-gzip",
+    "url": "https://registry.npmjs.org/@esbuild/freebsd-x64/-/freebsd-x64-0.27.3.tgz",
+    "sha512": "7439345fced3ee623a5372bd5635ad1ce5eac0030904d376afb6de8c3b1cfa3d374848ed0fd1eb3a5f2054507278cd1a264b2852e51553d4c16996b6ae08f4a0",
+    "dest": "deno_dir/npm/registry.npmjs.org/@esbuild/freebsd-x64/0.27.3",
+    "only-arches": [
+      "x86_64"
+    ]
+  },
+  {
+    "type": "inline",
     "contents": "{\"name\":\"@esbuild/linux-arm64\",\"dist-tags\":{},\"versions\":{\"0.27.3\":{\"name\":\"@esbuild/linux-arm64\",\"version\":\"0.27.3\",\"description\":\"The Linux ARM 64-bit binary for esbuild, a JavaScript bundler.\",\"repository\":{\"type\":\"git\",\"url\":\"git+https://github.com/evanw/esbuild.git\"},\"license\":\"MIT\",\"preferUnplugged\":true,\"engines\":{\"node\":\">=18\"},\"os\":[\"linux\"],\"cpu\":[\"arm64\"],\"_id\":\"@esbuild/linux-arm64@0.27.3\",\"gitHead\":\"9129e00e6c36a3e374820cb5e3fc2cd319c8ab85\",\"bugs\":{\"url\":\"https://github.com/evanw/esbuild/issues\"},\"homepage\":\"https://github.com/evanw/esbuild#readme\",\"_nodeVersion\":\"24.13.0\",\"_npmVersion\":\"11.5.1\",\"dist\":{\"integrity\":\"sha512-sZOuFz/xWnZ4KH3YfFrKCf1WyPZHakVzTiqji3WDc0BCl2kBwiJLCXpzLzUBLgmp4veFZdvN5ChW4Eq/8Fc2Fg==\",\"shasum\":\"bf31918fe5c798586460d2b3d6c46ed2c01ca0b6\",\"tarball\":\"https://registry.npmjs.org/@esbuild/linux-arm64/-/linux-arm64-0.27.3.tgz\",\"fileCount\":3,\"unpackedSize\":10158789,\"attestations\":{\"url\":\"https://registry.npmjs.org/-/npm/v1/attestations/@esbuild%2flinux-arm64@0.27.3\",\"provenance\":{\"predicateType\":\"https://slsa.dev/provenance/v1\"}},\"signatures\":[{\"keyid\":\"SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U\",\"sig\":\"MEQCIBRM0bQwsAjLkx5/pUtVSUZkR+r9a8J3Q5Qd92NvFCgwAiAFVxkfrwzT9MI30AQcg5ZArhDnSKd8MsgivCayXrZT6A==\"}]},\"_npmUser\":{\"name\":\"GitHub Actions\",\"email\":\"npm-oidc-no-reply@github.com\",\"trustedPublisher\":{\"id\":\"github\",\"oidcConfigId\":\"oidc:93e1e6a1-7a84-459b-b481-76c4fac4c7b9\"}},\"directories\":{},\"maintainers\":[{\"name\":\"esbuild\",\"email\":\"evan.exe+esbuild@gmail.com\"}],\"_npmOperationalInternal\":{\"host\":\"s3://npm-registry-packages-npm-production\",\"tmp\":\"tmp/linux-arm64_0.27.3_1770328929386_0.4141575648575375\"},\"_hasShrinkwrap\":false}}}",
     "dest": "deno_dir/npm/registry.npmjs.org/@esbuild/linux-arm64",
     "dest-filename": "registry.json"
@@ -3285,6 +2735,150 @@
   },
   {
     "type": "inline",
+    "contents": "{\"name\":\"@esbuild/netbsd-arm64\",\"dist-tags\":{},\"versions\":{\"0.27.3\":{\"name\":\"@esbuild/netbsd-arm64\",\"version\":\"0.27.3\",\"description\":\"The NetBSD ARM 64-bit binary for esbuild, a JavaScript bundler.\",\"repository\":{\"type\":\"git\",\"url\":\"git+https://github.com/evanw/esbuild.git\"},\"license\":\"MIT\",\"preferUnplugged\":true,\"engines\":{\"node\":\">=18\"},\"os\":[\"netbsd\"],\"cpu\":[\"arm64\"],\"_id\":\"@esbuild/netbsd-arm64@0.27.3\",\"gitHead\":\"9129e00e6c36a3e374820cb5e3fc2cd319c8ab85\",\"bugs\":{\"url\":\"https://github.com/evanw/esbuild/issues\"},\"homepage\":\"https://github.com/evanw/esbuild#readme\",\"_nodeVersion\":\"24.13.0\",\"_npmVersion\":\"11.5.1\",\"dist\":{\"integrity\":\"sha512-sDpk0RgmTCR/5HguIZa9n9u+HVKf40fbEUt+iTzSnCaGvY9kFP0YKBWZtJaraonFnqef5SlJ8/TiPAxzyS+UoA==\",\"shasum\":\"dd0cb2fa543205fcd931df44f4786bfcce6df7d7\",\"tarball\":\"https://registry.npmjs.org/@esbuild/netbsd-arm64/-/netbsd-arm64-0.27.3.tgz\",\"fileCount\":3,\"unpackedSize\":10028002,\"attestations\":{\"url\":\"https://registry.npmjs.org/-/npm/v1/attestations/@esbuild%2fnetbsd-arm64@0.27.3\",\"provenance\":{\"predicateType\":\"https://slsa.dev/provenance/v1\"}},\"signatures\":[{\"keyid\":\"SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U\",\"sig\":\"MEYCIQCssi3ywmDoK/kf8NFvEnDJCPiTIgx4EWb84cwgyQPTLgIhAJgpRoPiP86XoyCp8aYdZkP6v1uF0UO6ie6iOlKEy4fA\"}]},\"_npmUser\":{\"name\":\"GitHub Actions\",\"email\":\"npm-oidc-no-reply@github.com\",\"trustedPublisher\":{\"id\":\"github\",\"oidcConfigId\":\"oidc:ccd88fec-ed20-4283-9a5a-c65531064309\"}},\"directories\":{},\"maintainers\":[{\"name\":\"esbuild\",\"email\":\"evan.exe+esbuild@gmail.com\"}],\"_npmOperationalInternal\":{\"host\":\"s3://npm-registry-packages-npm-production\",\"tmp\":\"tmp/netbsd-arm64_0.27.3_1770328976779_0.4464731514412914\"},\"_hasShrinkwrap\":false}}}",
+    "dest": "deno_dir/npm/registry.npmjs.org/@esbuild/netbsd-arm64",
+    "dest-filename": "registry.json"
+  },
+  {
+    "type": "archive",
+    "archive-type": "tar-gzip",
+    "url": "https://registry.npmjs.org/@esbuild/netbsd-arm64/-/netbsd-arm64-0.27.3.tgz",
+    "sha512": "b03a64d118264c247fe4782e2196bd9fdbbe1d529fe347db114b7e893cd29c2686bd8f6414fd18281599b496ab6a89c59ea79fe52949f3f4e23c0c73c92f94a0",
+    "dest": "deno_dir/npm/registry.npmjs.org/@esbuild/netbsd-arm64/0.27.3",
+    "only-arches": [
+      "aarch64"
+    ]
+  },
+  {
+    "type": "inline",
+    "contents": "{\"name\":\"@esbuild/netbsd-x64\",\"dist-tags\":{},\"versions\":{\"0.27.3\":{\"name\":\"@esbuild/netbsd-x64\",\"version\":\"0.27.3\",\"description\":\"The NetBSD AMD64 binary for esbuild, a JavaScript bundler.\",\"repository\":{\"type\":\"git\",\"url\":\"git+https://github.com/evanw/esbuild.git\"},\"license\":\"MIT\",\"engines\":{\"node\":\">=18\"},\"os\":[\"netbsd\"],\"cpu\":[\"x64\"],\"_id\":\"@esbuild/netbsd-x64@0.27.3\",\"gitHead\":\"9129e00e6c36a3e374820cb5e3fc2cd319c8ab85\",\"bugs\":{\"url\":\"https://github.com/evanw/esbuild/issues\"},\"homepage\":\"https://github.com/evanw/esbuild#readme\",\"_nodeVersion\":\"24.13.0\",\"_npmVersion\":\"11.5.1\",\"dist\":{\"integrity\":\"sha512-P14lFKJl/DdaE00LItAukUdZO5iqNH7+PjoBm+fLQjtxfcfFE20Xf5CrLsmZdq5LFFZzb5JMZ9grUwvtVYzjiA==\",\"shasum\":\"028ad1807a8e03e155153b2d025b506c3787354b\",\"tarball\":\"https://registry.npmjs.org/@esbuild/netbsd-x64/-/netbsd-x64-0.27.3.tgz\",\"fileCount\":3,\"unpackedSize\":11023289,\"attestations\":{\"url\":\"https://registry.npmjs.org/-/npm/v1/attestations/@esbuild%2fnetbsd-x64@0.27.3\",\"provenance\":{\"predicateType\":\"https://slsa.dev/provenance/v1\"}},\"signatures\":[{\"keyid\":\"SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U\",\"sig\":\"MEUCIGLy/afVIG6WwJRKF4VEgbRI3V5387SpiB5PlYvftqKxAiEAm2C8GHdNu0U5923/u6Nfg4aLduQPUrKcDIirJhddL2Y=\"}]},\"_npmUser\":{\"name\":\"GitHub Actions\",\"email\":\"npm-oidc-no-reply@github.com\",\"trustedPublisher\":{\"id\":\"github\",\"oidcConfigId\":\"oidc:10a7dc27-0836-4eb4-85f2-57fbe39f1a4c\"}},\"directories\":{},\"maintainers\":[{\"name\":\"esbuild\",\"email\":\"evan.exe+esbuild@gmail.com\"}],\"_npmOperationalInternal\":{\"host\":\"s3://npm-registry-packages-npm-production\",\"tmp\":\"tmp/netbsd-x64_0.27.3_1770328982276_0.757965894606708\"},\"_hasShrinkwrap\":false}}}",
+    "dest": "deno_dir/npm/registry.npmjs.org/@esbuild/netbsd-x64",
+    "dest-filename": "registry.json"
+  },
+  {
+    "type": "archive",
+    "archive-type": "tar-gzip",
+    "url": "https://registry.npmjs.org/@esbuild/netbsd-x64/-/netbsd-x64-0.27.3.tgz",
+    "sha512": "3f5e2514a265fc375a134d0b22d02e9147593b98aa347efe3e3a019be7cb423b717dc7c5136d177f90ab2ec99976ae4b1456736f924c67d82b530bed558ce388",
+    "dest": "deno_dir/npm/registry.npmjs.org/@esbuild/netbsd-x64/0.27.3",
+    "only-arches": [
+      "x86_64"
+    ]
+  },
+  {
+    "type": "inline",
+    "contents": "{\"name\":\"@esbuild/openbsd-arm64\",\"dist-tags\":{},\"versions\":{\"0.27.3\":{\"name\":\"@esbuild/openbsd-arm64\",\"version\":\"0.27.3\",\"description\":\"The OpenBSD ARM 64-bit binary for esbuild, a JavaScript bundler.\",\"repository\":{\"type\":\"git\",\"url\":\"git+https://github.com/evanw/esbuild.git\"},\"license\":\"MIT\",\"preferUnplugged\":true,\"engines\":{\"node\":\">=18\"},\"os\":[\"openbsd\"],\"cpu\":[\"arm64\"],\"_id\":\"@esbuild/openbsd-arm64@0.27.3\",\"gitHead\":\"9129e00e6c36a3e374820cb5e3fc2cd319c8ab85\",\"bugs\":{\"url\":\"https://github.com/evanw/esbuild/issues\"},\"homepage\":\"https://github.com/evanw/esbuild#readme\",\"_nodeVersion\":\"24.13.0\",\"_npmVersion\":\"11.5.1\",\"dist\":{\"integrity\":\"sha512-AIcMP77AvirGbRl/UZFTq5hjXK+2wC7qFRGoHSDrZ5v5b8DK/GYpXW3CPRL53NkvDqb9D+alBiC/dV0Fb7eJcw==\",\"shasum\":\"e3c16ff3490c9b59b969fffca87f350ffc0e2af5\",\"tarball\":\"https://registry.npmjs.org/@esbuild/openbsd-arm64/-/openbsd-arm64-0.27.3.tgz\",\"fileCount\":3,\"unpackedSize\":10093389,\"attestations\":{\"url\":\"https://registry.npmjs.org/-/npm/v1/attestations/@esbuild%2fopenbsd-arm64@0.27.3\",\"provenance\":{\"predicateType\":\"https://slsa.dev/provenance/v1\"}},\"signatures\":[{\"keyid\":\"SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U\",\"sig\":\"MEUCIHIM3JEVCKc4KlAKetNZUtfw8yYCcJQvfQmgNxVl/S/JAiEA7dCv7QbegOLc+pXCGt5MBE/3KsctXpXCjLTUllZ8MJU=\"}]},\"_npmUser\":{\"name\":\"GitHub Actions\",\"email\":\"npm-oidc-no-reply@github.com\",\"trustedPublisher\":{\"id\":\"github\",\"oidcConfigId\":\"oidc:bfd7d39f-9cbf-4187-a5f8-efc4ed4ee45e\"}},\"directories\":{},\"maintainers\":[{\"name\":\"esbuild\",\"email\":\"evan.exe+esbuild@gmail.com\"}],\"_npmOperationalInternal\":{\"host\":\"s3://npm-registry-packages-npm-production\",\"tmp\":\"tmp/openbsd-arm64_0.27.3_1770328987127_0.43129519343604494\"},\"_hasShrinkwrap\":false}}}",
+    "dest": "deno_dir/npm/registry.npmjs.org/@esbuild/openbsd-arm64",
+    "dest-filename": "registry.json"
+  },
+  {
+    "type": "archive",
+    "archive-type": "tar-gzip",
+    "url": "https://registry.npmjs.org/@esbuild/openbsd-arm64/-/openbsd-arm64-0.27.3.tgz",
+    "sha512": "00870c3fbec0be2ac66d197f519153ab98635cafb6c02eea1511a81d20eb679bf96fc0cafc66295d6dc23d12f9dcd92f0ea6fd0fe6a50620bf755d056fb78973",
+    "dest": "deno_dir/npm/registry.npmjs.org/@esbuild/openbsd-arm64/0.27.3",
+    "only-arches": [
+      "aarch64"
+    ]
+  },
+  {
+    "type": "inline",
+    "contents": "{\"name\":\"@esbuild/openbsd-x64\",\"dist-tags\":{},\"versions\":{\"0.27.3\":{\"name\":\"@esbuild/openbsd-x64\",\"version\":\"0.27.3\",\"description\":\"The OpenBSD 64-bit binary for esbuild, a JavaScript bundler.\",\"repository\":{\"type\":\"git\",\"url\":\"git+https://github.com/evanw/esbuild.git\"},\"license\":\"MIT\",\"preferUnplugged\":true,\"engines\":{\"node\":\">=18\"},\"os\":[\"openbsd\"],\"cpu\":[\"x64\"],\"_id\":\"@esbuild/openbsd-x64@0.27.3\",\"gitHead\":\"9129e00e6c36a3e374820cb5e3fc2cd319c8ab85\",\"bugs\":{\"url\":\"https://github.com/evanw/esbuild/issues\"},\"homepage\":\"https://github.com/evanw/esbuild#readme\",\"_nodeVersion\":\"24.13.0\",\"_npmVersion\":\"11.5.1\",\"dist\":{\"integrity\":\"sha512-DnW2sRrBzA+YnE70LKqnM3P+z8vehfJWHXECbwBmH/CU51z6FiqTQTHFenPlHmo3a8UgpLyH3PT+87OViOh1AQ==\",\"shasum\":\"c5a4693fcb03d1cbecbf8b422422468dfc0d2a8b\",\"tarball\":\"https://registry.npmjs.org/@esbuild/openbsd-x64/-/openbsd-x64-0.27.3.tgz\",\"fileCount\":3,\"unpackedSize\":11055937,\"attestations\":{\"url\":\"https://registry.npmjs.org/-/npm/v1/attestations/@esbuild%2fopenbsd-x64@0.27.3\",\"provenance\":{\"predicateType\":\"https://slsa.dev/provenance/v1\"}},\"signatures\":[{\"keyid\":\"SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U\",\"sig\":\"MEQCIGXIqp59RISgPpysRIhPU/eSzGB1XUfT3RC4I91HyM1WAiAtJtecMkUxW6Q56pUfMBlPTj3JtGwhAymFY0Z1MMdJIQ==\"}]},\"_npmUser\":{\"name\":\"GitHub Actions\",\"email\":\"npm-oidc-no-reply@github.com\",\"trustedPublisher\":{\"id\":\"github\",\"oidcConfigId\":\"oidc:c7092895-e1f1-4a9b-8556-24d6b5a46562\"}},\"directories\":{},\"maintainers\":[{\"name\":\"esbuild\",\"email\":\"evan.exe+esbuild@gmail.com\"}],\"_npmOperationalInternal\":{\"host\":\"s3://npm-registry-packages-npm-production\",\"tmp\":\"tmp/openbsd-x64_0.27.3_1770328992395_0.35313405138656284\"},\"_hasShrinkwrap\":false}}}",
+    "dest": "deno_dir/npm/registry.npmjs.org/@esbuild/openbsd-x64",
+    "dest-filename": "registry.json"
+  },
+  {
+    "type": "archive",
+    "archive-type": "tar-gzip",
+    "url": "https://registry.npmjs.org/@esbuild/openbsd-x64/-/openbsd-x64-0.27.3.tgz",
+    "sha512": "0e75b6b11ac1cc0f989c4ef42caaa73373fecfcbde85f2561d71026f00661ff094e75cfa162a934131c57a73e51e6a376bc520a4bc87dcf4fef3b39588e87501",
+    "dest": "deno_dir/npm/registry.npmjs.org/@esbuild/openbsd-x64/0.27.3",
+    "only-arches": [
+      "x86_64"
+    ]
+  },
+  {
+    "type": "inline",
+    "contents": "{\"name\":\"@esbuild/openharmony-arm64\",\"dist-tags\":{},\"versions\":{\"0.27.3\":{\"name\":\"@esbuild/openharmony-arm64\",\"version\":\"0.27.3\",\"description\":\"A WebAssembly shim for esbuild on OpenHarmony ARM64.\",\"repository\":{\"type\":\"git\",\"url\":\"git+https://github.com/evanw/esbuild.git\"},\"license\":\"MIT\",\"preferUnplugged\":true,\"engines\":{\"node\":\">=18\"},\"os\":[\"openharmony\"],\"cpu\":[\"arm64\"],\"_id\":\"@esbuild/openharmony-arm64@0.27.3\",\"gitHead\":\"9129e00e6c36a3e374820cb5e3fc2cd319c8ab85\",\"bugs\":{\"url\":\"https://github.com/evanw/esbuild/issues\"},\"homepage\":\"https://github.com/evanw/esbuild#readme\",\"_nodeVersion\":\"24.13.0\",\"_npmVersion\":\"11.5.1\",\"dist\":{\"integrity\":\"sha512-NinAEgr/etERPTsZJ7aEZQvvg/A6IsZG/LgZy+81wON2huV7SrK3e63dU0XhyZP4RKGyTm7aOgmQk0bGp0fy2g==\",\"shasum\":\"082082444f12db564a0775a41e1991c0e125055e\",\"tarball\":\"https://registry.npmjs.org/@esbuild/openharmony-arm64/-/openharmony-arm64-0.27.3.tgz\",\"fileCount\":6,\"unpackedSize\":13547005,\"attestations\":{\"url\":\"https://registry.npmjs.org/-/npm/v1/attestations/@esbuild%2fopenharmony-arm64@0.27.3\",\"provenance\":{\"predicateType\":\"https://slsa.dev/provenance/v1\"}},\"signatures\":[{\"keyid\":\"SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U\",\"sig\":\"MEYCIQDlfNl1AzAuhbVF4dBR2GScy5XFYk4hf9V72Y23i7d6MAIhAP3v8phRKnYkNEcFLivUt+17uWT6xWwYxBhzp1D37VAc\"}]},\"_npmUser\":{\"name\":\"GitHub Actions\",\"email\":\"npm-oidc-no-reply@github.com\",\"trustedPublisher\":{\"id\":\"github\",\"oidcConfigId\":\"oidc:9f543a31-844a-4389-9142-9b12c7f01f1f\"}},\"directories\":{},\"maintainers\":[{\"name\":\"esbuild\",\"email\":\"evan.exe+esbuild@gmail.com\"}],\"_npmOperationalInternal\":{\"host\":\"s3://npm-registry-packages-npm-production\",\"tmp\":\"tmp/openharmony-arm64_0.27.3_1770328997590_0.3271064956247145\"},\"_hasShrinkwrap\":false}}}",
+    "dest": "deno_dir/npm/registry.npmjs.org/@esbuild/openharmony-arm64",
+    "dest-filename": "registry.json"
+  },
+  {
+    "type": "archive",
+    "archive-type": "tar-gzip",
+    "url": "https://registry.npmjs.org/@esbuild/openharmony-arm64/-/openharmony-arm64-0.27.3.tgz",
+    "sha512": "3629c0120aff7ad1113d3b1927b684650bef83f03a22c646fcb819cbef35c0e37686e57b4ab2b77baddd5345e1c993f844a1b24e6eda3a09909346c6a747f2da",
+    "dest": "deno_dir/npm/registry.npmjs.org/@esbuild/openharmony-arm64/0.27.3",
+    "only-arches": [
+      "aarch64"
+    ]
+  },
+  {
+    "type": "inline",
+    "contents": "{\"name\":\"@esbuild/sunos-x64\",\"dist-tags\":{},\"versions\":{\"0.27.3\":{\"name\":\"@esbuild/sunos-x64\",\"version\":\"0.27.3\",\"description\":\"The illumos 64-bit binary for esbuild, a JavaScript bundler.\",\"repository\":{\"type\":\"git\",\"url\":\"git+https://github.com/evanw/esbuild.git\"},\"license\":\"MIT\",\"preferUnplugged\":true,\"engines\":{\"node\":\">=18\"},\"os\":[\"sunos\"],\"cpu\":[\"x64\"],\"_id\":\"@esbuild/sunos-x64@0.27.3\",\"gitHead\":\"9129e00e6c36a3e374820cb5e3fc2cd319c8ab85\",\"bugs\":{\"url\":\"https://github.com/evanw/esbuild/issues\"},\"homepage\":\"https://github.com/evanw/esbuild#readme\",\"_nodeVersion\":\"24.13.0\",\"_npmVersion\":\"11.5.1\",\"dist\":{\"integrity\":\"sha512-PanZ+nEz+eWoBJ8/f8HKxTTD172SKwdXebZ0ndd953gt1HRBbhMsaNqjTyYLGLPdoWHy4zLU7bDVJztF5f3BHA==\",\"shasum\":\"5ab036c53f929e8405c4e96e865a424160a1b537\",\"tarball\":\"https://registry.npmjs.org/@esbuild/sunos-x64/-/sunos-x64-0.27.3.tgz\",\"fileCount\":3,\"unpackedSize\":11060009,\"attestations\":{\"url\":\"https://registry.npmjs.org/-/npm/v1/attestations/@esbuild%2fsunos-x64@0.27.3\",\"provenance\":{\"predicateType\":\"https://slsa.dev/provenance/v1\"}},\"signatures\":[{\"keyid\":\"SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U\",\"sig\":\"MEQCIDi2EUo+uHQcw30yWKRzPqsCsSFxViz7hW3GMOA5VK1iAiAd7elAixGC6zld+4j4nAsM1x/6QOJeqja2i/uSYfsJoQ==\"}]},\"_npmUser\":{\"name\":\"GitHub Actions\",\"email\":\"npm-oidc-no-reply@github.com\",\"trustedPublisher\":{\"id\":\"github\",\"oidcConfigId\":\"oidc:9ae5ac90-8926-44c6-ad5b-d7627f4aadf9\"}},\"directories\":{},\"maintainers\":[{\"name\":\"esbuild\",\"email\":\"evan.exe+esbuild@gmail.com\"}],\"_npmOperationalInternal\":{\"host\":\"s3://npm-registry-packages-npm-production\",\"tmp\":\"tmp/sunos-x64_0.27.3_1770329002848_0.949096628606023\"},\"_hasShrinkwrap\":false}}}",
+    "dest": "deno_dir/npm/registry.npmjs.org/@esbuild/sunos-x64",
+    "dest-filename": "registry.json"
+  },
+  {
+    "type": "archive",
+    "archive-type": "tar-gzip",
+    "url": "https://registry.npmjs.org/@esbuild/sunos-x64/-/sunos-x64-0.27.3.tgz",
+    "sha512": "3da9d9fa7133f9e5a8049f3f7fc1cac534c3d7bd922b075779b6749dd77de7782dd474416e132c68daa34f260b18b3dda161f2e332d4edb0d5273b45e5fdc11c",
+    "dest": "deno_dir/npm/registry.npmjs.org/@esbuild/sunos-x64/0.27.3",
+    "only-arches": [
+      "x86_64"
+    ]
+  },
+  {
+    "type": "inline",
+    "contents": "{\"name\":\"@esbuild/win32-arm64\",\"dist-tags\":{},\"versions\":{\"0.27.3\":{\"name\":\"@esbuild/win32-arm64\",\"version\":\"0.27.3\",\"description\":\"The Windows ARM 64-bit binary for esbuild, a JavaScript bundler.\",\"repository\":{\"type\":\"git\",\"url\":\"git+https://github.com/evanw/esbuild.git\"},\"license\":\"MIT\",\"preferUnplugged\":true,\"engines\":{\"node\":\">=18\"},\"os\":[\"win32\"],\"cpu\":[\"arm64\"],\"_id\":\"@esbuild/win32-arm64@0.27.3\",\"gitHead\":\"9129e00e6c36a3e374820cb5e3fc2cd319c8ab85\",\"bugs\":{\"url\":\"https://github.com/evanw/esbuild/issues\"},\"homepage\":\"https://github.com/evanw/esbuild#readme\",\"_nodeVersion\":\"24.13.0\",\"_npmVersion\":\"11.5.1\",\"dist\":{\"integrity\":\"sha512-B2t59lWWYrbRDw/tjiWOuzSsFh1Y/E95ofKz7rIVYSQkUYBjfSgf6oeYPNWHToFRr2zx52JKApIcAS/D5TUBnA==\",\"shasum\":\"38de700ef4b960a0045370c171794526e589862e\",\"tarball\":\"https://registry.npmjs.org/@esbuild/win32-arm64/-/win32-arm64-0.27.3.tgz\",\"fileCount\":3,\"unpackedSize\":10219537,\"attestations\":{\"url\":\"https://registry.npmjs.org/-/npm/v1/attestations/@esbuild%2fwin32-arm64@0.27.3\",\"provenance\":{\"predicateType\":\"https://slsa.dev/provenance/v1\"}},\"signatures\":[{\"keyid\":\"SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U\",\"sig\":\"MEQCIHMuUbgNv3MaxAwyH0kUJQpJiZlY5/Y7jNN1o2fb4lv/AiB90+r3LI6VIw76qtI/BXlvZCgHXo4BLokqpeRgdaO8pw==\"}]},\"_npmUser\":{\"name\":\"GitHub Actions\",\"email\":\"npm-oidc-no-reply@github.com\",\"trustedPublisher\":{\"id\":\"github\",\"oidcConfigId\":\"oidc:b8365ac4-ee50-477c-ad2c-5fd72a350608\"}},\"directories\":{},\"maintainers\":[{\"name\":\"esbuild\",\"email\":\"evan.exe+esbuild@gmail.com\"}],\"_npmOperationalInternal\":{\"host\":\"s3://npm-registry-packages-npm-production\",\"tmp\":\"tmp/win32-arm64_0.27.3_1770329013946_0.8246407892339123\"},\"_hasShrinkwrap\":false}}}",
+    "dest": "deno_dir/npm/registry.npmjs.org/@esbuild/win32-arm64",
+    "dest-filename": "registry.json"
+  },
+  {
+    "type": "archive",
+    "archive-type": "tar-gzip",
+    "url": "https://registry.npmjs.org/@esbuild/win32-arm64/-/win32-arm64-0.27.3.tgz",
+    "sha512": "076b79f6559662b6d10f0fed8e258ebb34ac161d58fc4f79a1f2b3eeb2156124245180637d281fea87983cd5874e8151af6cf1e7624a02921c012fc3e535019c",
+    "dest": "deno_dir/npm/registry.npmjs.org/@esbuild/win32-arm64/0.27.3",
+    "only-arches": [
+      "aarch64"
+    ]
+  },
+  {
+    "type": "inline",
+    "contents": "{\"name\":\"@esbuild/win32-ia32\",\"dist-tags\":{},\"versions\":{\"0.27.3\":{\"name\":\"@esbuild/win32-ia32\",\"version\":\"0.27.3\",\"description\":\"The Windows 32-bit binary for esbuild, a JavaScript bundler.\",\"repository\":{\"type\":\"git\",\"url\":\"git+https://github.com/evanw/esbuild.git\"},\"license\":\"MIT\",\"preferUnplugged\":true,\"engines\":{\"node\":\">=18\"},\"os\":[\"win32\"],\"cpu\":[\"ia32\"],\"_id\":\"@esbuild/win32-ia32@0.27.3\",\"gitHead\":\"9129e00e6c36a3e374820cb5e3fc2cd319c8ab85\",\"bugs\":{\"url\":\"https://github.com/evanw/esbuild/issues\"},\"homepage\":\"https://github.com/evanw/esbuild#readme\",\"_nodeVersion\":\"24.13.0\",\"_npmVersion\":\"11.5.1\",\"dist\":{\"integrity\":\"sha512-QLKSFeXNS8+tHW7tZpMtjlNb7HKau0QDpwm49u0vUp9y1WOF+PEzkU84y9GqYaAVW8aH8f3GcBck26jh54cX4Q==\",\"shasum\":\"451b93dc03ec5d4f38619e6cd64d9f9eff06f55c\",\"tarball\":\"https://registry.npmjs.org/@esbuild/win32-ia32/-/win32-ia32-0.27.3.tgz\",\"fileCount\":3,\"unpackedSize\":10833415,\"attestations\":{\"url\":\"https://registry.npmjs.org/-/npm/v1/attestations/@esbuild%2fwin32-ia32@0.27.3\",\"provenance\":{\"predicateType\":\"https://slsa.dev/provenance/v1\"}},\"signatures\":[{\"keyid\":\"SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U\",\"sig\":\"MEYCIQDqW1oqk6Jerl+s3zu1JvvVXO25cBDy3opq+mQd4LWHdAIhAMn2oUSkLWD/RBHtygyitZFQjBOZ2IpVX0LpVS91ZmLo\"}]},\"_npmUser\":{\"name\":\"GitHub Actions\",\"email\":\"npm-oidc-no-reply@github.com\",\"trustedPublisher\":{\"id\":\"github\",\"oidcConfigId\":\"oidc:6ea7409a-5e5f-41b3-9ddf-d72eab22bc38\"}},\"directories\":{},\"maintainers\":[{\"name\":\"esbuild\",\"email\":\"evan.exe+esbuild@gmail.com\"}],\"_npmOperationalInternal\":{\"host\":\"s3://npm-registry-packages-npm-production\",\"tmp\":\"tmp/win32-ia32_0.27.3_1770329018542_0.9581021387247457\"},\"_hasShrinkwrap\":false}}}",
+    "dest": "deno_dir/npm/registry.npmjs.org/@esbuild/win32-ia32",
+    "dest-filename": "registry.json"
+  },
+  {
+    "type": "archive",
+    "archive-type": "tar-gzip",
+    "url": "https://registry.npmjs.org/@esbuild/win32-ia32/-/win32-ia32-0.27.3.tgz",
+    "sha512": "40b29215e5cd4bcfad1d6eed66932d8e535bec729abb4403a709b8f6ed2f529f72d56385f8f133914f38cbd1aa61a0155bc687f1fdc6701724dba8e1e78717e1",
+    "dest": "deno_dir/npm/registry.npmjs.org/@esbuild/win32-ia32/0.27.3",
+    "only-arches": [
+      "ia32"
+    ]
+  },
+  {
+    "type": "inline",
+    "contents": "{\"name\":\"@esbuild/win32-x64\",\"dist-tags\":{},\"versions\":{\"0.27.3\":{\"name\":\"@esbuild/win32-x64\",\"version\":\"0.27.3\",\"description\":\"The Windows 64-bit binary for esbuild, a JavaScript bundler.\",\"repository\":{\"type\":\"git\",\"url\":\"git+https://github.com/evanw/esbuild.git\"},\"license\":\"MIT\",\"preferUnplugged\":true,\"engines\":{\"node\":\">=18\"},\"os\":[\"win32\"],\"cpu\":[\"x64\"],\"_id\":\"@esbuild/win32-x64@0.27.3\",\"gitHead\":\"9129e00e6c36a3e374820cb5e3fc2cd319c8ab85\",\"bugs\":{\"url\":\"https://github.com/evanw/esbuild/issues\"},\"homepage\":\"https://github.com/evanw/esbuild#readme\",\"_nodeVersion\":\"24.13.0\",\"_npmVersion\":\"11.5.1\",\"dist\":{\"integrity\":\"sha512-4uJGhsxuptu3OcpVAzli+/gWusVGwZZHTlS63hh++ehExkVT8SgiEf7/uC/PclrPPkLhZqGgCTjd0VWLo6xMqA==\",\"shasum\":\"0eaf705c941a218a43dba8e09f1df1d6cd2f1f17\",\"tarball\":\"https://registry.npmjs.org/@esbuild/win32-x64/-/win32-x64-0.27.3.tgz\",\"fileCount\":3,\"unpackedSize\":11376133,\"attestations\":{\"url\":\"https://registry.npmjs.org/-/npm/v1/attestations/@esbuild%2fwin32-x64@0.27.3\",\"provenance\":{\"predicateType\":\"https://slsa.dev/provenance/v1\"}},\"signatures\":[{\"keyid\":\"SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U\",\"sig\":\"MEQCICZZoubWWjNjOcs0r79DlnZBlFTHsdvHuLJqem2NNXgZAiA7HF2TFzJW+u8iFAo721dykdDonzvUDsPThI5fZMzM0Q==\"}]},\"_npmUser\":{\"name\":\"GitHub Actions\",\"email\":\"npm-oidc-no-reply@github.com\",\"trustedPublisher\":{\"id\":\"github\",\"oidcConfigId\":\"oidc:86b35642-21b7-4370-a743-288771d094c8\"}},\"directories\":{},\"maintainers\":[{\"name\":\"esbuild\",\"email\":\"evan.exe+esbuild@gmail.com\"}],\"_npmOperationalInternal\":{\"host\":\"s3://npm-registry-packages-npm-production\",\"tmp\":\"tmp/win32-x64_0.27.3_1770329023627_0.8072352722618819\"},\"_hasShrinkwrap\":false}}}",
+    "dest": "deno_dir/npm/registry.npmjs.org/@esbuild/win32-x64",
+    "dest-filename": "registry.json"
+  },
+  {
+    "type": "archive",
+    "archive-type": "tar-gzip",
+    "url": "https://registry.npmjs.org/@esbuild/win32-x64/-/win32-x64-0.27.3.tgz",
+    "sha512": "e2e24686cc6ea6dbb739ca55033962fbf816bac546c196474e54bade187ef9e844c64553f1282211feffb82fcf725acf3e42e166a1a00938ddd1558ba3ac4ca8",
+    "dest": "deno_dir/npm/registry.npmjs.org/@esbuild/win32-x64/0.27.3",
+    "only-arches": [
+      "x86_64"
+    ]
+  },
+  {
+    "type": "inline",
     "contents": "{\"name\":\"@jridgewell/gen-mapping\",\"dist-tags\":{},\"versions\":{\"0.3.13\":{\"name\":\"@jridgewell/gen-mapping\",\"version\":\"0.3.13\",\"description\":\"Generate source maps\",\"keywords\":[\"source\",\"map\"],\"main\":\"dist/gen-mapping.umd.js\",\"module\":\"dist/gen-mapping.mjs\",\"types\":\"types/gen-mapping.d.cts\",\"exports\":{\".\":[{\"import\":{\"types\":\"./types/gen-mapping.d.mts\",\"default\":\"./dist/gen-mapping.mjs\"},\"default\":{\"types\":\"./types/gen-mapping.d.cts\",\"default\":\"./dist/gen-mapping.umd.js\"}},\"./dist/gen-mapping.umd.js\"],\"./package.json\":\"./package.json\"},\"scripts\":{\"benchmark\":\"run-s build:code benchmark:*\",\"benchmark:install\":\"cd benchmark && npm install\",\"benchmark:only\":\"node --expose-gc benchmark/index.js\",\"build\":\"run-s -n build:code build:types\",\"build:code\":\"node ../../esbuild.mjs gen-mapping.ts\",\"build:types\":\"run-s build:types:force build:types:emit build:types:mts\",\"build:types:force\":\"rimraf tsconfig.build.tsbuildinfo\",\"build:types:emit\":\"tsc --project tsconfig.build.json\",\"build:types:mts\":\"node ../../mts-types.mjs\",\"clean\":\"run-s -n clean:code clean:types\",\"clean:code\":\"tsc --build --clean tsconfig.build.json\",\"clean:types\":\"rimraf dist types\",\"test\":\"run-s -n test:types test:only test:format\",\"test:format\":\"prettier --check '{src,test}/**/*.ts'\",\"test:only\":\"mocha\",\"test:types\":\"eslint '{src,test}/**/*.ts'\",\"lint\":\"run-s -n lint:types lint:format\",\"lint:format\":\"npm run test:format -- --write\",\"lint:types\":\"npm run test:types -- --fix\",\"prepublishOnly\":\"npm run-s -n build test\"},\"homepage\":\"https://github.com/jridgewell/sourcemaps/tree/main/packages/gen-mapping\",\"repository\":{\"type\":\"git\",\"url\":\"git+https://github.com/jridgewell/sourcemaps.git\",\"directory\":\"packages/gen-mapping\"},\"author\":{\"name\":\"Justin Ridgewell\",\"email\":\"justin@ridgewell.name\"},\"license\":\"MIT\",\"dependencies\":{\"@jridgewell/sourcemap-codec\":\"^1.5.0\",\"@jridgewell/trace-mapping\":\"^0.3.24\"},\"_id\":\"@jridgewell/gen-mapping@0.3.13\",\"gitHead\":\"095a5825c482003597a30aa380b50159219f3618\",\"bugs\":{\"url\":\"https://github.com/jridgewell/sourcemaps/issues\"},\"_nodeVersion\":\"24.4.1\",\"_npmVersion\":\"11.4.2\",\"dist\":{\"integrity\":\"sha512-2kkt/7niJ6MgEPxF0bYdQ6etZaA+fQvDcLKckhy1yIQOzaoKjBBjSj63/aLVjYE3qhRt5dvM+uUyfCg6UKCBbA==\",\"shasum\":\"6342a19f44347518c93e43b1ac69deb3c4656a1f\",\"tarball\":\"https://registry.npmjs.org/@jridgewell/gen-mapping/-/gen-mapping-0.3.13.tgz\",\"fileCount\":31,\"unpackedSize\":93797,\"signatures\":[{\"keyid\":\"SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U\",\"sig\":\"MEYCIQCZS3dgBdG5uXwrzHb1UYb5NNdvaORTULbodpiz+zsgCgIhAPHtuiXeY1/emutgT7qTbyJLtsq305ywba6Hbp/g2ZjD\"}]},\"_npmUser\":{\"name\":\"jridgewell\",\"email\":\"justin+npm@ridgewell.name\"},\"directories\":{},\"maintainers\":[{\"name\":\"jridgewell\",\"email\":\"justin+npm@ridgewell.name\"}],\"_npmOperationalInternal\":{\"host\":\"s3://npm-registry-packages-npm-production\",\"tmp\":\"tmp/gen-mapping_0.3.13_1754981000958_0.7113082944711056\"},\"_hasShrinkwrap\":false}}}",
     "dest": "deno_dir/npm/registry.npmjs.org/@jridgewell/gen-mapping",
     "dest-filename": "registry.json"
@@ -3347,6 +2941,102 @@
     "url": "https://registry.npmjs.org/@jridgewell/trace-mapping/-/trace-mapping-0.3.31.tgz",
     "sha512": "cf3351f9275048327373c8e869e3fc410a0242bf0db98c76748232b65d507811191c9f6e5ba85e6ecad881bcfc849c1441aa374d608cb667d5f0dbb5b7038b03",
     "dest": "deno_dir/npm/registry.npmjs.org/@jridgewell/trace-mapping/0.3.31"
+  },
+  {
+    "type": "inline",
+    "contents": "{\"name\":\"@rollup/rollup-android-arm-eabi\",\"dist-tags\":{},\"versions\":{\"4.57.1\":{\"name\":\"@rollup/rollup-android-arm-eabi\",\"version\":\"4.57.1\",\"os\":[\"android\"],\"cpu\":[\"arm\"],\"description\":\"Native bindings for Rollup\",\"author\":{\"name\":\"Lukas Taegert-Atkinson\"},\"homepage\":\"https://rollupjs.org/\",\"license\":\"MIT\",\"repository\":{\"type\":\"git\",\"url\":\"git+https://github.com/rollup/rollup.git\"},\"main\":\"./rollup.android-arm-eabi.node\",\"gitHead\":\"d37675f25150d6a94dcf4138853bdc2ecb3ce57b\",\"_id\":\"@rollup/rollup-android-arm-eabi@4.57.1\",\"bugs\":{\"url\":\"https://github.com/rollup/rollup/issues\"},\"_nodeVersion\":\"24.10.0\",\"_npmVersion\":\"11.6.2\",\"dist\":{\"integrity\":\"sha512-A6ehUVSiSaaliTxai040ZpZ2zTevHYbvu/lDoeAteHI8QnaosIzm4qwtezfRg1jOYaUmnzLX1AOD6Z+UJjtifg==\",\"shasum\":\"add5e608d4e7be55bc3ca3d962490b8b1890e088\",\"tarball\":\"https://registry.npmjs.org/@rollup/rollup-android-arm-eabi/-/rollup-android-arm-eabi-4.57.1.tgz\",\"fileCount\":3,\"unpackedSize\":1311603,\"attestations\":{\"url\":\"https://registry.npmjs.org/-/npm/v1/attestations/@rollup%2frollup-android-arm-eabi@4.57.1\",\"provenance\":{\"predicateType\":\"https://slsa.dev/provenance/v1\"}},\"signatures\":[{\"keyid\":\"SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U\",\"sig\":\"MEYCIQCG5G1+nCK7ZFCpKVC7I0505/E3f9Z7qFpMLp7RXOtFeAIhANTWK+iL/httw3P0q57SiTB6u3G1bCM7AZb3deaMdd8J\"}]},\"_npmUser\":{\"name\":\"GitHub Actions\",\"email\":\"npm-oidc-no-reply@github.com\",\"trustedPublisher\":{\"id\":\"github\",\"oidcConfigId\":\"oidc:22d847ab-741e-42bf-86a6-d3117a963c46\"}},\"directories\":{},\"maintainers\":[{\"name\":\"shellscape\",\"email\":\"andrew@shellscape.org\"},{\"name\":\"rich_harris\",\"email\":\"richard.a.harris@gmail.com\"},{\"name\":\"guybedford\",\"email\":\"guybedford@gmail.com\"},{\"name\":\"lukastaegert\",\"email\":\"lukas.taegert@tngtech.com\"}],\"_npmOperationalInternal\":{\"host\":\"s3://npm-registry-packages-npm-production\",\"tmp\":\"tmp/rollup-android-arm-eabi_4.57.1_1769760833406_0.007353547228423851\"},\"_hasShrinkwrap\":false}}}",
+    "dest": "deno_dir/npm/registry.npmjs.org/@rollup/rollup-android-arm-eabi",
+    "dest-filename": "registry.json"
+  },
+  {
+    "type": "archive",
+    "archive-type": "tar-gzip",
+    "url": "https://registry.npmjs.org/@rollup/rollup-android-arm-eabi/-/rollup-android-arm-eabi-4.57.1.tgz",
+    "sha512": "03a7a15154a249a6a5893c5a8b4e34669676cd37af1d86efbbf943a1e02d78723c4276a8b08ce6e2ac2d7b37d18358ce61a5269f32d7d40383e99f94263b627e",
+    "dest": "deno_dir/npm/registry.npmjs.org/@rollup/rollup-android-arm-eabi/4.57.1",
+    "only-arches": [
+      "arm"
+    ]
+  },
+  {
+    "type": "inline",
+    "contents": "{\"name\":\"@rollup/rollup-android-arm64\",\"dist-tags\":{},\"versions\":{\"4.57.1\":{\"name\":\"@rollup/rollup-android-arm64\",\"version\":\"4.57.1\",\"os\":[\"android\"],\"cpu\":[\"arm64\"],\"description\":\"Native bindings for Rollup\",\"author\":{\"name\":\"Lukas Taegert-Atkinson\"},\"homepage\":\"https://rollupjs.org/\",\"license\":\"MIT\",\"repository\":{\"type\":\"git\",\"url\":\"git+https://github.com/rollup/rollup.git\"},\"main\":\"./rollup.android-arm64.node\",\"gitHead\":\"d37675f25150d6a94dcf4138853bdc2ecb3ce57b\",\"_id\":\"@rollup/rollup-android-arm64@4.57.1\",\"bugs\":{\"url\":\"https://github.com/rollup/rollup/issues\"},\"_nodeVersion\":\"24.10.0\",\"_npmVersion\":\"11.6.2\",\"dist\":{\"integrity\":\"sha512-dQaAddCY9YgkFHZcFNS/606Exo8vcLHwArFZ7vxXq4rigo2bb494/xKMMwRRQW6ug7Js6yXmBZhSBRuBvCCQ3w==\",\"shasum\":\"10bd0382b73592beee6e9800a69401a29da625c4\",\"tarball\":\"https://registry.npmjs.org/@rollup/rollup-android-arm64/-/rollup-android-arm64-4.57.1.tgz\",\"fileCount\":3,\"unpackedSize\":1830859,\"attestations\":{\"url\":\"https://registry.npmjs.org/-/npm/v1/attestations/@rollup%2frollup-android-arm64@4.57.1\",\"provenance\":{\"predicateType\":\"https://slsa.dev/provenance/v1\"}},\"signatures\":[{\"keyid\":\"SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U\",\"sig\":\"MEUCID58TQGTt4CnHYqt8+r/k2FvL9WsuoTMFkQKvcHqBPYaAiEAoOK+VmPOU5G78iJAapdAs/q7tbKA5tHg53lNbCHm+cE=\"}]},\"_npmUser\":{\"name\":\"GitHub Actions\",\"email\":\"npm-oidc-no-reply@github.com\",\"trustedPublisher\":{\"id\":\"github\",\"oidcConfigId\":\"oidc:61e16d2b-ab0c-4f70-b61b-172d17c47436\"}},\"directories\":{},\"maintainers\":[{\"name\":\"shellscape\",\"email\":\"andrew@shellscape.org\"},{\"name\":\"rich_harris\",\"email\":\"richard.a.harris@gmail.com\"},{\"name\":\"guybedford\",\"email\":\"guybedford@gmail.com\"},{\"name\":\"lukastaegert\",\"email\":\"lukas.taegert@tngtech.com\"}],\"_npmOperationalInternal\":{\"host\":\"s3://npm-registry-packages-npm-production\",\"tmp\":\"tmp/rollup-android-arm64_4.57.1_1769760816947_0.27357161846962685\"},\"_hasShrinkwrap\":false}}}",
+    "dest": "deno_dir/npm/registry.npmjs.org/@rollup/rollup-android-arm64",
+    "dest-filename": "registry.json"
+  },
+  {
+    "type": "archive",
+    "archive-type": "tar-gzip",
+    "url": "https://registry.npmjs.org/@rollup/rollup-android-arm64/-/rollup-android-arm64-4.57.1.tgz",
+    "sha512": "75068075d098f5882414765c14d4bfeb4e84c68f2f70b1f002b159eefc57ab8ae2828d9b6f8f78ff128c330451416eae83b26ceb25e6059852051b81bc2090df",
+    "dest": "deno_dir/npm/registry.npmjs.org/@rollup/rollup-android-arm64/4.57.1",
+    "only-arches": [
+      "aarch64"
+    ]
+  },
+  {
+    "type": "inline",
+    "contents": "{\"name\":\"@rollup/rollup-darwin-arm64\",\"dist-tags\":{},\"versions\":{\"4.57.1\":{\"name\":\"@rollup/rollup-darwin-arm64\",\"version\":\"4.57.1\",\"os\":[\"darwin\"],\"cpu\":[\"arm64\"],\"description\":\"Native bindings for Rollup\",\"author\":{\"name\":\"Lukas Taegert-Atkinson\"},\"homepage\":\"https://rollupjs.org/\",\"license\":\"MIT\",\"repository\":{\"type\":\"git\",\"url\":\"git+https://github.com/rollup/rollup.git\"},\"main\":\"./rollup.darwin-arm64.node\",\"gitHead\":\"d37675f25150d6a94dcf4138853bdc2ecb3ce57b\",\"_id\":\"@rollup/rollup-darwin-arm64@4.57.1\",\"bugs\":{\"url\":\"https://github.com/rollup/rollup/issues\"},\"_nodeVersion\":\"24.10.0\",\"_npmVersion\":\"11.6.2\",\"dist\":{\"integrity\":\"sha512-crNPrwJOrRxagUYeMn/DZwqN88SDmwaJ8Cvi/TN1HnWBU7GwknckyosC2gd0IqYRsHDEnXf328o9/HC6OkPgOg==\",\"shasum\":\"1e99ab04c0b8c619dd7bbde725ba2b87b55bfd81\",\"tarball\":\"https://registry.npmjs.org/@rollup/rollup-darwin-arm64/-/rollup-darwin-arm64-4.57.1.tgz\",\"fileCount\":3,\"unpackedSize\":1764333,\"attestations\":{\"url\":\"https://registry.npmjs.org/-/npm/v1/attestations/@rollup%2frollup-darwin-arm64@4.57.1\",\"provenance\":{\"predicateType\":\"https://slsa.dev/provenance/v1\"}},\"signatures\":[{\"keyid\":\"SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U\",\"sig\":\"MEQCIHJ6Si2vr3FGC0xv+LwoWnGY7+YOGI9ISpVTgqzVjunbAiAVZY+SKSeksg2/6evY57wpOmOrZeFHtWsS9KZNxpMmrw==\"}]},\"_npmUser\":{\"name\":\"GitHub Actions\",\"email\":\"npm-oidc-no-reply@github.com\",\"trustedPublisher\":{\"id\":\"github\",\"oidcConfigId\":\"oidc:dece26d6-8e7f-42d4-8d3e-6b40c222681c\"}},\"directories\":{},\"maintainers\":[{\"name\":\"shellscape\",\"email\":\"andrew@shellscape.org\"},{\"name\":\"rich_harris\",\"email\":\"richard.a.harris@gmail.com\"},{\"name\":\"guybedford\",\"email\":\"guybedford@gmail.com\"},{\"name\":\"lukastaegert\",\"email\":\"lukas.taegert@tngtech.com\"}],\"_npmOperationalInternal\":{\"host\":\"s3://npm-registry-packages-npm-production\",\"tmp\":\"tmp/rollup-darwin-arm64_4.57.1_1769760813560_0.6038646606468376\"},\"_hasShrinkwrap\":false}}}",
+    "dest": "deno_dir/npm/registry.npmjs.org/@rollup/rollup-darwin-arm64",
+    "dest-filename": "registry.json"
+  },
+  {
+    "type": "archive",
+    "archive-type": "tar-gzip",
+    "url": "https://registry.npmjs.org/@rollup/rollup-darwin-arm64/-/rollup-darwin-arm64-4.57.1.tgz",
+    "sha512": "72b34faf024ead1c5a81461e327fc3670a8df3c4839b0689f02be2fd33751e758153b1b0927724ca8b02da077422a611b070c49d77f7dbca3dfc70ba3a43e03a",
+    "dest": "deno_dir/npm/registry.npmjs.org/@rollup/rollup-darwin-arm64/4.57.1",
+    "only-arches": [
+      "aarch64"
+    ]
+  },
+  {
+    "type": "inline",
+    "contents": "{\"name\":\"@rollup/rollup-darwin-x64\",\"dist-tags\":{},\"versions\":{\"4.57.1\":{\"name\":\"@rollup/rollup-darwin-x64\",\"version\":\"4.57.1\",\"os\":[\"darwin\"],\"cpu\":[\"x64\"],\"description\":\"Native bindings for Rollup\",\"author\":{\"name\":\"Lukas Taegert-Atkinson\"},\"homepage\":\"https://rollupjs.org/\",\"license\":\"MIT\",\"repository\":{\"type\":\"git\",\"url\":\"git+https://github.com/rollup/rollup.git\"},\"main\":\"./rollup.darwin-x64.node\",\"gitHead\":\"d37675f25150d6a94dcf4138853bdc2ecb3ce57b\",\"_id\":\"@rollup/rollup-darwin-x64@4.57.1\",\"bugs\":{\"url\":\"https://github.com/rollup/rollup/issues\"},\"_nodeVersion\":\"24.10.0\",\"_npmVersion\":\"11.6.2\",\"dist\":{\"integrity\":\"sha512-Ji8g8ChVbKrhFtig5QBV7iMaJrGtpHelkB3lsaKzadFBe58gmjfGXAOfI5FV0lYMH8wiqsxKQ1C9B0YTRXVy4w==\",\"shasum\":\"69e741aeb2839d2e8f0da2ce7a33d8bd23632423\",\"tarball\":\"https://registry.npmjs.org/@rollup/rollup-darwin-x64/-/rollup-darwin-x64-4.57.1.tgz\",\"fileCount\":3,\"unpackedSize\":1865378,\"attestations\":{\"url\":\"https://registry.npmjs.org/-/npm/v1/attestations/@rollup%2frollup-darwin-x64@4.57.1\",\"provenance\":{\"predicateType\":\"https://slsa.dev/provenance/v1\"}},\"signatures\":[{\"keyid\":\"SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U\",\"sig\":\"MEYCIQCG7Um7u32dDWI5gfMRdGJFaq5jnxOvWxaJIapI/ZnO+wIhANtAa3a86IwSF96I9q4NNi6bjQ9wLSmFYx3lYG6dV52i\"}]},\"_npmUser\":{\"name\":\"GitHub Actions\",\"email\":\"npm-oidc-no-reply@github.com\",\"trustedPublisher\":{\"id\":\"github\",\"oidcConfigId\":\"oidc:0c2e287f-5683-4c26-9beb-32d71aa04323\"}},\"directories\":{},\"maintainers\":[{\"name\":\"shellscape\",\"email\":\"andrew@shellscape.org\"},{\"name\":\"rich_harris\",\"email\":\"richard.a.harris@gmail.com\"},{\"name\":\"guybedford\",\"email\":\"guybedford@gmail.com\"},{\"name\":\"lukastaegert\",\"email\":\"lukas.taegert@tngtech.com\"}],\"_npmOperationalInternal\":{\"host\":\"s3://npm-registry-packages-npm-production\",\"tmp\":\"tmp/rollup-darwin-x64_4.57.1_1769760870369_0.07366962381453535\"},\"_hasShrinkwrap\":false}}}",
+    "dest": "deno_dir/npm/registry.npmjs.org/@rollup/rollup-darwin-x64",
+    "dest-filename": "registry.json"
+  },
+  {
+    "type": "archive",
+    "archive-type": "tar-gzip",
+    "url": "https://registry.npmjs.org/@rollup/rollup-darwin-x64/-/rollup-darwin-x64-4.57.1.tgz",
+    "sha512": "262f20f028556caae116d8a0e50055ee231a26b1ada477a5901de5b1a2b369d1417b9f209a37c65c039f239155d2560c1fcc22aacc4a4350bd074613457572e3",
+    "dest": "deno_dir/npm/registry.npmjs.org/@rollup/rollup-darwin-x64/4.57.1",
+    "only-arches": [
+      "x86_64"
+    ]
+  },
+  {
+    "type": "inline",
+    "contents": "{\"name\":\"@rollup/rollup-freebsd-arm64\",\"dist-tags\":{},\"versions\":{\"4.57.1\":{\"name\":\"@rollup/rollup-freebsd-arm64\",\"version\":\"4.57.1\",\"os\":[\"freebsd\"],\"cpu\":[\"arm64\"],\"description\":\"Native bindings for Rollup\",\"author\":{\"name\":\"Lukas Taegert-Atkinson\"},\"homepage\":\"https://rollupjs.org/\",\"license\":\"MIT\",\"repository\":{\"type\":\"git\",\"url\":\"git+https://github.com/rollup/rollup.git\"},\"main\":\"./rollup.freebsd-arm64.node\",\"gitHead\":\"d37675f25150d6a94dcf4138853bdc2ecb3ce57b\",\"_id\":\"@rollup/rollup-freebsd-arm64@4.57.1\",\"bugs\":{\"url\":\"https://github.com/rollup/rollup/issues\"},\"_nodeVersion\":\"24.10.0\",\"_npmVersion\":\"11.6.2\",\"dist\":{\"integrity\":\"sha512-R+/WwhsjmwodAcz65guCGFRkMb4gKWTcIeLy60JJQbXrJ97BOXHxnkPFrP+YwFlaS0m+uWJTstrUA9o+UchFug==\",\"shasum\":\"3736c232a999c7bef7131355d83ebdf9651a0839\",\"tarball\":\"https://registry.npmjs.org/@rollup/rollup-freebsd-arm64/-/rollup-freebsd-arm64-4.57.1.tgz\",\"fileCount\":3,\"unpackedSize\":1510765,\"attestations\":{\"url\":\"https://registry.npmjs.org/-/npm/v1/attestations/@rollup%2frollup-freebsd-arm64@4.57.1\",\"provenance\":{\"predicateType\":\"https://slsa.dev/provenance/v1\"}},\"signatures\":[{\"keyid\":\"SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U\",\"sig\":\"MEUCIQDk3Jnu9tJKsfKrm05J5mVVJMQAeR91O6lv3G4azJKY7QIgZbJCEEwP4NJrlmCeH7AlpkRQDfXhB0GHIuIRHHymhUQ=\"}]},\"_npmUser\":{\"name\":\"GitHub Actions\",\"email\":\"npm-oidc-no-reply@github.com\",\"trustedPublisher\":{\"id\":\"github\",\"oidcConfigId\":\"oidc:4f4898ec-ab80-4192-a991-13f278d8211f\"}},\"directories\":{},\"maintainers\":[{\"name\":\"shellscape\",\"email\":\"andrew@shellscape.org\"},{\"name\":\"rich_harris\",\"email\":\"richard.a.harris@gmail.com\"},{\"name\":\"guybedford\",\"email\":\"guybedford@gmail.com\"},{\"name\":\"lukastaegert\",\"email\":\"lukas.taegert@tngtech.com\"}],\"_npmOperationalInternal\":{\"host\":\"s3://npm-registry-packages-npm-production\",\"tmp\":\"tmp/rollup-freebsd-arm64_4.57.1_1769760823695_0.037114246710870935\"},\"_hasShrinkwrap\":false}}}",
+    "dest": "deno_dir/npm/registry.npmjs.org/@rollup/rollup-freebsd-arm64",
+    "dest-filename": "registry.json"
+  },
+  {
+    "type": "archive",
+    "archive-type": "tar-gzip",
+    "url": "https://registry.npmjs.org/@rollup/rollup-freebsd-arm64/-/rollup-freebsd-arm64-4.57.1.tgz",
+    "sha512": "47efd6c21b239b0a1d01ccfae60b8218546431be202964dc21e2f2eb424941b5eb27dec13971f19e43c5acff98c0595a4b49beb96253b2dad403da3e51c845ba",
+    "dest": "deno_dir/npm/registry.npmjs.org/@rollup/rollup-freebsd-arm64/4.57.1",
+    "only-arches": [
+      "aarch64"
+    ]
+  },
+  {
+    "type": "inline",
+    "contents": "{\"name\":\"@rollup/rollup-freebsd-x64\",\"dist-tags\":{},\"versions\":{\"4.57.1\":{\"name\":\"@rollup/rollup-freebsd-x64\",\"version\":\"4.57.1\",\"os\":[\"freebsd\"],\"cpu\":[\"x64\"],\"description\":\"Native bindings for Rollup\",\"author\":{\"name\":\"Lukas Taegert-Atkinson\"},\"homepage\":\"https://rollupjs.org/\",\"license\":\"MIT\",\"repository\":{\"type\":\"git\",\"url\":\"git+https://github.com/rollup/rollup.git\"},\"main\":\"./rollup.freebsd-x64.node\",\"gitHead\":\"d37675f25150d6a94dcf4138853bdc2ecb3ce57b\",\"_id\":\"@rollup/rollup-freebsd-x64@4.57.1\",\"bugs\":{\"url\":\"https://github.com/rollup/rollup/issues\"},\"_nodeVersion\":\"24.10.0\",\"_npmVersion\":\"11.6.2\",\"dist\":{\"integrity\":\"sha512-IEQTCHeiTOnAUC3IDQdzRAGj3jOAYNr9kBguI7MQAAZK3caezRrg0GxAb6Hchg4lxdZEI5Oq3iov/w/hnFWY9Q==\",\"shasum\":\"227dcb8f466684070169942bd3998901c9bfc065\",\"tarball\":\"https://registry.npmjs.org/@rollup/rollup-freebsd-x64/-/rollup-freebsd-x64-4.57.1.tgz\",\"fileCount\":3,\"unpackedSize\":1815562,\"attestations\":{\"url\":\"https://registry.npmjs.org/-/npm/v1/attestations/@rollup%2frollup-freebsd-x64@4.57.1\",\"provenance\":{\"predicateType\":\"https://slsa.dev/provenance/v1\"}},\"signatures\":[{\"keyid\":\"SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U\",\"sig\":\"MEQCIH/UXlwh0PJ9qU8wc+C6e6fwCuOV63GSEvE85sb9mk3KAiBlTs3iLq+hy2nfg4ocd9ijHbiufqqrBNJfn6/F5ZARww==\"}]},\"_npmUser\":{\"name\":\"GitHub Actions\",\"email\":\"npm-oidc-no-reply@github.com\",\"trustedPublisher\":{\"id\":\"github\",\"oidcConfigId\":\"oidc:f555bec4-e96b-42d7-94c3-976a8a3d39fc\"}},\"directories\":{},\"maintainers\":[{\"name\":\"shellscape\",\"email\":\"andrew@shellscape.org\"},{\"name\":\"rich_harris\",\"email\":\"richard.a.harris@gmail.com\"},{\"name\":\"guybedford\",\"email\":\"guybedford@gmail.com\"},{\"name\":\"lukastaegert\",\"email\":\"lukas.taegert@tngtech.com\"}],\"_npmOperationalInternal\":{\"host\":\"s3://npm-registry-packages-npm-production\",\"tmp\":\"tmp/rollup-freebsd-x64_4.57.1_1769760880950_0.6266966097118416\"},\"_hasShrinkwrap\":false}}}",
+    "dest": "deno_dir/npm/registry.npmjs.org/@rollup/rollup-freebsd-x64",
+    "dest-filename": "registry.json"
+  },
+  {
+    "type": "archive",
+    "archive-type": "tar-gzip",
+    "url": "https://registry.npmjs.org/@rollup/rollup-freebsd-x64/-/rollup-freebsd-x64-4.57.1.tgz",
+    "sha512": "2044130877a24ce9c0502dc80d07734401a3de338060dafd90182e23b31000064addc69ecd1ae0d06c406fa1dc860e25c5d6442393aade2a2fff0fe19c5598f5",
+    "dest": "deno_dir/npm/registry.npmjs.org/@rollup/rollup-freebsd-x64/4.57.1",
+    "only-arches": [
+      "x86_64"
+    ]
   },
   {
     "type": "inline",
@@ -3552,6 +3242,102 @@
     "url": "https://registry.npmjs.org/@rollup/rollup-linux-x64-musl/-/rollup-linux-x64-musl-4.57.1.tgz",
     "sha512": "1c5a6cd09786b6e391d9ca27be045190709e903ee3fa0740b9733efe2ea41b342d161942b50929c2d37390d8fa421083a7b0d127bfaa0bfd558368ede6248e17",
     "dest": "deno_dir/npm/registry.npmjs.org/@rollup/rollup-linux-x64-musl/4.57.1",
+    "only-arches": [
+      "x86_64"
+    ]
+  },
+  {
+    "type": "inline",
+    "contents": "{\"name\":\"@rollup/rollup-openbsd-x64\",\"dist-tags\":{},\"versions\":{\"4.57.1\":{\"name\":\"@rollup/rollup-openbsd-x64\",\"version\":\"4.57.1\",\"os\":[\"openbsd\"],\"cpu\":[\"x64\"],\"description\":\"Native bindings for Rollup\",\"author\":{\"name\":\"Lukas Taegert-Atkinson\"},\"homepage\":\"https://rollupjs.org/\",\"license\":\"MIT\",\"repository\":{\"type\":\"git\",\"url\":\"git+https://github.com/rollup/rollup.git\"},\"main\":\"./rollup.openbsd-x64.node\",\"gitHead\":\"d37675f25150d6a94dcf4138853bdc2ecb3ce57b\",\"_id\":\"@rollup/rollup-openbsd-x64@4.57.1\",\"bugs\":{\"url\":\"https://github.com/rollup/rollup/issues\"},\"_nodeVersion\":\"24.10.0\",\"_npmVersion\":\"11.6.2\",\"dist\":{\"integrity\":\"sha512-H+hXEv9gdVQuDTgnqD+SQffoWoc0Of59AStSzTEj/feWTBAnSfSD3+Dql1ZruJQxmykT/JVY0dE8Ka7z0DH1hw==\",\"shasum\":\"c51d48c07cd6c466560e5bed934aec688ce02614\",\"tarball\":\"https://registry.npmjs.org/@rollup/rollup-openbsd-x64/-/rollup-openbsd-x64-4.57.1.tgz\",\"fileCount\":3,\"unpackedSize\":110275786,\"attestations\":{\"url\":\"https://registry.npmjs.org/-/npm/v1/attestations/@rollup%2frollup-openbsd-x64@4.57.1\",\"provenance\":{\"predicateType\":\"https://slsa.dev/provenance/v1\"}},\"signatures\":[{\"keyid\":\"SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U\",\"sig\":\"MEQCIF7DK8D8OEA81TFR8FCrBhHDf16gpppXaTilztCd9UqrAiBNOxr6w5VrSaFSwJbq5kFD3xmRJw2dAKZTiUKZAvlqzw==\"}]},\"_npmUser\":{\"name\":\"GitHub Actions\",\"email\":\"npm-oidc-no-reply@github.com\",\"trustedPublisher\":{\"id\":\"github\",\"oidcConfigId\":\"oidc:2b990f92-f640-4b04-8eef-eb33b4dfff6b\"}},\"directories\":{},\"maintainers\":[{\"name\":\"shellscape\",\"email\":\"andrew@shellscape.org\"},{\"name\":\"rich_harris\",\"email\":\"richard.a.harris@gmail.com\"},{\"name\":\"guybedford\",\"email\":\"guybedford@gmail.com\"},{\"name\":\"lukastaegert\",\"email\":\"lukas.taegert@tngtech.com\"}],\"_npmOperationalInternal\":{\"host\":\"s3://npm-registry-packages-npm-production\",\"tmp\":\"tmp/rollup-openbsd-x64_4.57.1_1769760898814_0.4259686454563487\"},\"_hasShrinkwrap\":false}}}",
+    "dest": "deno_dir/npm/registry.npmjs.org/@rollup/rollup-openbsd-x64",
+    "dest-filename": "registry.json"
+  },
+  {
+    "type": "archive",
+    "archive-type": "tar-gzip",
+    "url": "https://registry.npmjs.org/@rollup/rollup-openbsd-x64/-/rollup-openbsd-x64-4.57.1.tgz",
+    "sha512": "1fe85712ff6075542e0d3827a83f9241f7e85a873439fe7d012b52cd3123fdf7964c102749f483dfe0ea97566bb894319b2913fc9558d1d13c29aef3d031f587",
+    "dest": "deno_dir/npm/registry.npmjs.org/@rollup/rollup-openbsd-x64/4.57.1",
+    "only-arches": [
+      "x86_64"
+    ]
+  },
+  {
+    "type": "inline",
+    "contents": "{\"name\":\"@rollup/rollup-openharmony-arm64\",\"dist-tags\":{},\"versions\":{\"4.57.1\":{\"name\":\"@rollup/rollup-openharmony-arm64\",\"version\":\"4.57.1\",\"os\":[\"openharmony\"],\"cpu\":[\"arm64\"],\"description\":\"Native bindings for Rollup\",\"author\":{\"name\":\"Lukas Taegert-Atkinson\"},\"homepage\":\"https://rollupjs.org/\",\"license\":\"MIT\",\"repository\":{\"type\":\"git\",\"url\":\"git+https://github.com/rollup/rollup.git\"},\"main\":\"./rollup.openharmony-arm64.node\",\"gitHead\":\"d37675f25150d6a94dcf4138853bdc2ecb3ce57b\",\"_id\":\"@rollup/rollup-openharmony-arm64@4.57.1\",\"bugs\":{\"url\":\"https://github.com/rollup/rollup/issues\"},\"_nodeVersion\":\"24.10.0\",\"_npmVersion\":\"11.6.2\",\"dist\":{\"integrity\":\"sha512-4wYoDpNg6o/oPximyc/NG+mYUejZrCU2q+2w6YZqrAs2UcNUChIZXjtafAiiZSUc7On8v5NyNj34Kzj/Ltk6dQ==\",\"shasum\":\"f09921d0b2a0b60afbf3586d2a7a7f208ba6df17\",\"tarball\":\"https://registry.npmjs.org/@rollup/rollup-openharmony-arm64/-/rollup-openharmony-arm64-4.57.1.tgz\",\"fileCount\":3,\"unpackedSize\":1726708,\"attestations\":{\"url\":\"https://registry.npmjs.org/-/npm/v1/attestations/@rollup%2frollup-openharmony-arm64@4.57.1\",\"provenance\":{\"predicateType\":\"https://slsa.dev/provenance/v1\"}},\"signatures\":[{\"keyid\":\"SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U\",\"sig\":\"MEQCIBr1N85DVHdj6ZCbCdwUOxpeS/KH8DXaH9CkNUhH64gyAiAJ8YH+XOjlWu8mwNIP0rxyWXxzRL3B5ongTImbJBBoRw==\"}]},\"_npmUser\":{\"name\":\"GitHub Actions\",\"email\":\"npm-oidc-no-reply@github.com\",\"trustedPublisher\":{\"id\":\"github\",\"oidcConfigId\":\"oidc:6eaf464f-381f-440a-8c9c-a4153891ec79\"}},\"directories\":{},\"maintainers\":[{\"name\":\"shellscape\",\"email\":\"andrew@shellscape.org\"},{\"name\":\"rich_harris\",\"email\":\"richard.a.harris@gmail.com\"},{\"name\":\"guybedford\",\"email\":\"guybedford@gmail.com\"},{\"name\":\"lukastaegert\",\"email\":\"lukas.taegert@tngtech.com\"}],\"_npmOperationalInternal\":{\"host\":\"s3://npm-registry-packages-npm-production\",\"tmp\":\"tmp/rollup-openharmony-arm64_4.57.1_1769760902315_0.8519702021402205\"},\"_hasShrinkwrap\":false}}}",
+    "dest": "deno_dir/npm/registry.npmjs.org/@rollup/rollup-openharmony-arm64",
+    "dest-filename": "registry.json"
+  },
+  {
+    "type": "archive",
+    "archive-type": "tar-gzip",
+    "url": "https://registry.npmjs.org/@rollup/rollup-openharmony-arm64/-/rollup-openharmony-arm64-4.57.1.tgz",
+    "sha512": "e306280e9360ea8fe83f18a6c9cfcd1be99851e8d9ac2536abedb0e9866aac0b3651c3540a12195e3b5a7c08a265251cece9fcbf9372363df82b38ff2ed93a75",
+    "dest": "deno_dir/npm/registry.npmjs.org/@rollup/rollup-openharmony-arm64/4.57.1",
+    "only-arches": [
+      "aarch64"
+    ]
+  },
+  {
+    "type": "inline",
+    "contents": "{\"name\":\"@rollup/rollup-win32-arm64-msvc\",\"dist-tags\":{},\"versions\":{\"4.57.1\":{\"name\":\"@rollup/rollup-win32-arm64-msvc\",\"version\":\"4.57.1\",\"os\":[\"win32\"],\"cpu\":[\"arm64\"],\"description\":\"Native bindings for Rollup\",\"author\":{\"name\":\"Lukas Taegert-Atkinson\"},\"homepage\":\"https://rollupjs.org/\",\"license\":\"MIT\",\"repository\":{\"type\":\"git\",\"url\":\"git+https://github.com/rollup/rollup.git\"},\"main\":\"./rollup.win32-arm64-msvc.node\",\"gitHead\":\"d37675f25150d6a94dcf4138853bdc2ecb3ce57b\",\"_id\":\"@rollup/rollup-win32-arm64-msvc@4.57.1\",\"bugs\":{\"url\":\"https://github.com/rollup/rollup/issues\"},\"_nodeVersion\":\"24.10.0\",\"_npmVersion\":\"11.6.2\",\"dist\":{\"integrity\":\"sha512-O54mtsV/6LW3P8qdTcamQmuC990HDfR71lo44oZMZlXU4tzLrbvTii87Ni9opq60ds0YzuAlEr/GNwuNluZyMQ==\",\"shasum\":\"08d491717135376e4a99529821c94ecd433d5b36\",\"tarball\":\"https://registry.npmjs.org/@rollup/rollup-win32-arm64-msvc/-/rollup-win32-arm64-msvc-4.57.1.tgz\",\"fileCount\":3,\"unpackedSize\":2053679,\"attestations\":{\"url\":\"https://registry.npmjs.org/-/npm/v1/attestations/@rollup%2frollup-win32-arm64-msvc@4.57.1\",\"provenance\":{\"predicateType\":\"https://slsa.dev/provenance/v1\"}},\"signatures\":[{\"keyid\":\"SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U\",\"sig\":\"MEYCIQDaJqbiekjry2LnBhdNorNJ+wPy/iJtlTlu1kZuN6UjMAIhAJczHZbbOZnRWWquh/lX5SZSnQAeBD/5vCDuhpj7HaBr\"}]},\"_npmUser\":{\"name\":\"GitHub Actions\",\"email\":\"npm-oidc-no-reply@github.com\",\"trustedPublisher\":{\"id\":\"github\",\"oidcConfigId\":\"oidc:08842f17-f705-4a69-980b-a6f65f3ae3a9\"}},\"directories\":{},\"maintainers\":[{\"name\":\"shellscape\",\"email\":\"andrew@shellscape.org\"},{\"name\":\"rich_harris\",\"email\":\"richard.a.harris@gmail.com\"},{\"name\":\"guybedford\",\"email\":\"guybedford@gmail.com\"},{\"name\":\"lukastaegert\",\"email\":\"lukas.taegert@tngtech.com\"}],\"_npmOperationalInternal\":{\"host\":\"s3://npm-registry-packages-npm-production\",\"tmp\":\"tmp/rollup-win32-arm64-msvc_4.57.1_1769760820331_0.38204149903707485\"},\"_hasShrinkwrap\":false}}}",
+    "dest": "deno_dir/npm/registry.npmjs.org/@rollup/rollup-win32-arm64-msvc",
+    "dest-filename": "registry.json"
+  },
+  {
+    "type": "archive",
+    "archive-type": "tar-gzip",
+    "url": "https://registry.npmjs.org/@rollup/rollup-win32-arm64-msvc/-/rollup-win32-arm64-msvc-4.57.1.tgz",
+    "sha512": "3b9e26b6c57fe8b5b73fca9d4dc6a6426b82f7dd070df47bd65a38e2864c6655d4e2dccbadbbd38a2f3b362f68a6aeb476cd18cee02512bfc6370b8d96e67231",
+    "dest": "deno_dir/npm/registry.npmjs.org/@rollup/rollup-win32-arm64-msvc/4.57.1",
+    "only-arches": [
+      "aarch64"
+    ]
+  },
+  {
+    "type": "inline",
+    "contents": "{\"name\":\"@rollup/rollup-win32-ia32-msvc\",\"dist-tags\":{},\"versions\":{\"4.57.1\":{\"name\":\"@rollup/rollup-win32-ia32-msvc\",\"version\":\"4.57.1\",\"os\":[\"win32\"],\"cpu\":[\"ia32\"],\"description\":\"Native bindings for Rollup\",\"author\":{\"name\":\"Lukas Taegert-Atkinson\"},\"homepage\":\"https://rollupjs.org/\",\"license\":\"MIT\",\"repository\":{\"type\":\"git\",\"url\":\"git+https://github.com/rollup/rollup.git\"},\"main\":\"./rollup.win32-ia32-msvc.node\",\"gitHead\":\"d37675f25150d6a94dcf4138853bdc2ecb3ce57b\",\"_id\":\"@rollup/rollup-win32-ia32-msvc@4.57.1\",\"bugs\":{\"url\":\"https://github.com/rollup/rollup/issues\"},\"_nodeVersion\":\"24.10.0\",\"_npmVersion\":\"11.6.2\",\"dist\":{\"integrity\":\"sha512-P3dLS+IerxCT/7D2q2FYcRdWRl22dNbrbBEtxdWhXrfIMPP9lQhb5h4Du04mdl5Woq05jVCDPCMF7Ub0NAjIew==\",\"shasum\":\"b0c12aac1104a8b8f26a5e0098e5facbb3e3964a\",\"tarball\":\"https://registry.npmjs.org/@rollup/rollup-win32-ia32-msvc/-/rollup-win32-ia32-msvc-4.57.1.tgz\",\"fileCount\":3,\"unpackedSize\":1893415,\"attestations\":{\"url\":\"https://registry.npmjs.org/-/npm/v1/attestations/@rollup%2frollup-win32-ia32-msvc@4.57.1\",\"provenance\":{\"predicateType\":\"https://slsa.dev/provenance/v1\"}},\"signatures\":[{\"keyid\":\"SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U\",\"sig\":\"MEYCIQCkTExGqojwrcSMsJatZtWoGYcM6h6aQOA9o1X/Brz6hAIhANyrPau7TmSkhdd0n+PRJFwWU/Ogzj712gmFw+g8Bu9G\"}]},\"_npmUser\":{\"name\":\"GitHub Actions\",\"email\":\"npm-oidc-no-reply@github.com\",\"trustedPublisher\":{\"id\":\"github\",\"oidcConfigId\":\"oidc:e23aa9cb-304c-4e3f-9750-a8514c1457e0\"}},\"directories\":{},\"maintainers\":[{\"name\":\"shellscape\",\"email\":\"andrew@shellscape.org\"},{\"name\":\"rich_harris\",\"email\":\"richard.a.harris@gmail.com\"},{\"name\":\"guybedford\",\"email\":\"guybedford@gmail.com\"},{\"name\":\"lukastaegert\",\"email\":\"lukas.taegert@tngtech.com\"}],\"_npmOperationalInternal\":{\"host\":\"s3://npm-registry-packages-npm-production\",\"tmp\":\"tmp/rollup-win32-ia32-msvc_4.57.1_1769760843346_0.20348411677060008\"},\"_hasShrinkwrap\":false}}}",
+    "dest": "deno_dir/npm/registry.npmjs.org/@rollup/rollup-win32-ia32-msvc",
+    "dest-filename": "registry.json"
+  },
+  {
+    "type": "archive",
+    "archive-type": "tar-gzip",
+    "url": "https://registry.npmjs.org/@rollup/rollup-win32-ia32-msvc/-/rollup-win32-ia32-msvc-4.57.1.tgz",
+    "sha512": "3f774b4be21eaf1093ffb0f6ab6158711756465db674d6eb6c112dc5d5a15eb7c830f3fd95085be61e03bb4e26765e56a2ad398d50833c2305ed46f43408c87b",
+    "dest": "deno_dir/npm/registry.npmjs.org/@rollup/rollup-win32-ia32-msvc/4.57.1",
+    "only-arches": [
+      "ia32"
+    ]
+  },
+  {
+    "type": "inline",
+    "contents": "{\"name\":\"@rollup/rollup-win32-x64-gnu\",\"dist-tags\":{},\"versions\":{\"4.57.1\":{\"name\":\"@rollup/rollup-win32-x64-gnu\",\"version\":\"4.57.1\",\"os\":[\"win32\"],\"cpu\":[\"x64\"],\"description\":\"Native bindings for Rollup\",\"author\":{\"name\":\"Lukas Taegert-Atkinson\"},\"homepage\":\"https://rollupjs.org/\",\"license\":\"MIT\",\"repository\":{\"type\":\"git\",\"url\":\"git+https://github.com/rollup/rollup.git\"},\"main\":\"./rollup.win32-x64-gnu.node\",\"gitHead\":\"d37675f25150d6a94dcf4138853bdc2ecb3ce57b\",\"_id\":\"@rollup/rollup-win32-x64-gnu@4.57.1\",\"bugs\":{\"url\":\"https://github.com/rollup/rollup/issues\"},\"_nodeVersion\":\"24.10.0\",\"_npmVersion\":\"11.6.2\",\"dist\":{\"integrity\":\"sha512-VMBH2eOOaKGtIJYleXsi2B8CPVADrh+TyNxJ4mWPnKfLB/DBUmzW+5m1xUrcwWoMfSLagIRpjUFeW5CO5hyciQ==\",\"shasum\":\"b9cccef26f5e6fdc013bf3c0911a3c77428509d0\",\"tarball\":\"https://registry.npmjs.org/@rollup/rollup-win32-x64-gnu/-/rollup-win32-x64-gnu-4.57.1.tgz\",\"fileCount\":3,\"unpackedSize\":1973279,\"attestations\":{\"url\":\"https://registry.npmjs.org/-/npm/v1/attestations/@rollup%2frollup-win32-x64-gnu@4.57.1\",\"provenance\":{\"predicateType\":\"https://slsa.dev/provenance/v1\"}},\"signatures\":[{\"keyid\":\"SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U\",\"sig\":\"MEYCIQCDqkN7gYDnXw8B3cj3H+to9pvHN1uaxpE4NAZALOMiQwIhAJHirPwG0X8R4p3+Z61KLzK1MFef+7HdKvTKilFofM5r\"}]},\"_npmUser\":{\"name\":\"GitHub Actions\",\"email\":\"npm-oidc-no-reply@github.com\",\"trustedPublisher\":{\"id\":\"github\",\"oidcConfigId\":\"oidc:e9f9fb08-f43d-4c22-8570-90e922e4e3bd\"}},\"directories\":{},\"maintainers\":[{\"name\":\"shellscape\",\"email\":\"andrew@shellscape.org\"},{\"name\":\"rich_harris\",\"email\":\"richard.a.harris@gmail.com\"},{\"name\":\"guybedford\",\"email\":\"guybedford@gmail.com\"},{\"name\":\"lukastaegert\",\"email\":\"lukas.taegert@tngtech.com\"}],\"_npmOperationalInternal\":{\"host\":\"s3://npm-registry-packages-npm-production\",\"tmp\":\"tmp/rollup-win32-x64-gnu_4.57.1_1769760873925_0.8162129940287473\"},\"_hasShrinkwrap\":false}}}",
+    "dest": "deno_dir/npm/registry.npmjs.org/@rollup/rollup-win32-x64-gnu",
+    "dest-filename": "registry.json"
+  },
+  {
+    "type": "archive",
+    "archive-type": "tar-gzip",
+    "url": "https://registry.npmjs.org/@rollup/rollup-win32-x64-gnu/-/rollup-win32-x64-gnu-4.57.1.tgz",
+    "sha512": "54c047d9e38e68a1ad209625797b22d81f023d5003ae1f93c8dc49e2658f9ca7cb07f0c1526cd6fb99b5c54adcc16a0c7d22da8084698d415e5b908ee61c9c89",
+    "dest": "deno_dir/npm/registry.npmjs.org/@rollup/rollup-win32-x64-gnu/4.57.1",
+    "only-arches": [
+      "x86_64"
+    ]
+  },
+  {
+    "type": "inline",
+    "contents": "{\"name\":\"@rollup/rollup-win32-x64-msvc\",\"dist-tags\":{},\"versions\":{\"4.57.1\":{\"name\":\"@rollup/rollup-win32-x64-msvc\",\"version\":\"4.57.1\",\"os\":[\"win32\"],\"cpu\":[\"x64\"],\"description\":\"Native bindings for Rollup\",\"author\":{\"name\":\"Lukas Taegert-Atkinson\"},\"homepage\":\"https://rollupjs.org/\",\"license\":\"MIT\",\"repository\":{\"type\":\"git\",\"url\":\"git+https://github.com/rollup/rollup.git\"},\"main\":\"./rollup.win32-x64-msvc.node\",\"gitHead\":\"d37675f25150d6a94dcf4138853bdc2ecb3ce57b\",\"_id\":\"@rollup/rollup-win32-x64-msvc@4.57.1\",\"bugs\":{\"url\":\"https://github.com/rollup/rollup/issues\"},\"_nodeVersion\":\"24.10.0\",\"_npmVersion\":\"11.6.2\",\"dist\":{\"integrity\":\"sha512-mxRFDdHIWRxg3UfIIAwCm6NzvxG0jDX/wBN6KsQFTvKFqqg9vTrWUE68qEjHt19A5wwx5X5aUi2zuZT7YR0jrA==\",\"shasum\":\"a03348e7b559c792b6277cc58874b89ef46e1e72\",\"tarball\":\"https://registry.npmjs.org/@rollup/rollup-win32-x64-msvc/-/rollup-win32-x64-msvc-4.57.1.tgz\",\"fileCount\":3,\"unpackedSize\":2527780,\"attestations\":{\"url\":\"https://registry.npmjs.org/-/npm/v1/attestations/@rollup%2frollup-win32-x64-msvc@4.57.1\",\"provenance\":{\"predicateType\":\"https://slsa.dev/provenance/v1\"}},\"signatures\":[{\"keyid\":\"SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U\",\"sig\":\"MEUCIClO9UrZTq2Xgonq9ld2Xr3ksdHkbr7ffHnJJvTS8HKtAiEA2GrXrcCmmIhgcKXEPq4vp9HIxqZked8KJsaln2LX4to=\"}]},\"_npmUser\":{\"name\":\"GitHub Actions\",\"email\":\"npm-oidc-no-reply@github.com\",\"trustedPublisher\":{\"id\":\"github\",\"oidcConfigId\":\"oidc:3b324dd9-18c5-4b62-8693-bb38868e75bd\"}},\"directories\":{},\"maintainers\":[{\"name\":\"shellscape\",\"email\":\"andrew@shellscape.org\"},{\"name\":\"rich_harris\",\"email\":\"richard.a.harris@gmail.com\"},{\"name\":\"guybedford\",\"email\":\"guybedford@gmail.com\"},{\"name\":\"lukastaegert\",\"email\":\"lukas.taegert@tngtech.com\"}],\"_npmOperationalInternal\":{\"host\":\"s3://npm-registry-packages-npm-production\",\"tmp\":\"tmp/rollup-win32-x64-msvc_4.57.1_1769760877560_0.2427445104250483\"},\"_hasShrinkwrap\":false}}}",
+    "dest": "deno_dir/npm/registry.npmjs.org/@rollup/rollup-win32-x64-msvc",
+    "dest-filename": "registry.json"
+  },
+  {
+    "type": "archive",
+    "archive-type": "tar-gzip",
+    "url": "https://registry.npmjs.org/@rollup/rollup-win32-x64-msvc/-/rollup-win32-x64-msvc-4.57.1.tgz",
+    "sha512": "9b14450dd1c8591c60dd47c8200c029ba373bf11b48c35ffc0137a2ac4054ef285aaa83dbd3ad6504ebca848c7b75f40e70c31e57e5a522db3b994fb611d23ac",
+    "dest": "deno_dir/npm/registry.npmjs.org/@rollup/rollup-win32-x64-msvc/4.57.1",
     "only-arches": [
       "x86_64"
     ]
@@ -3789,6 +3575,19 @@
     "url": "https://registry.npmjs.org/fdir/-/fdir-6.5.0.tgz",
     "sha512": "b486d8b596ee70eb340511aa3c992c84951874bf920c7edd54cf208f2f84469dd60148cb105244fb4da46a7c87b708d63a7c2b298062c0098cd29e242c90275e",
     "dest": "deno_dir/npm/registry.npmjs.org/fdir/6.5.0"
+  },
+  {
+    "type": "inline",
+    "contents": "{\"name\":\"fsevents\",\"dist-tags\":{},\"versions\":{\"2.3.3\":{\"name\":\"fsevents\",\"version\":\"2.3.3\",\"keywords\":[\"fsevents\",\"mac\"],\"license\":\"MIT\",\"_id\":\"fsevents@2.3.3\",\"maintainers\":[{\"name\":\"pipobscure\",\"email\":\"pip@pipobscure.com\"},{\"name\":\"paulmillr\",\"email\":\"paul@paulmillr.com\"}],\"contributors\":[{\"name\":\"Philipp Dunkel\",\"email\":\"pip@pipobscure.com\"},{\"name\":\"Ben Noordhuis\",\"email\":\"info@bnoordhuis.nl\"},{\"name\":\"Elan Shankar\",\"email\":\"elan.shanker@gmail.com\"},{\"name\":\"Miroslav Bajtoš\",\"email\":\"mbajtoss@gmail.com\"},{\"url\":\"https://paulmillr.com\",\"name\":\"Paul Miller\"}],\"homepage\":\"https://github.com/fsevents/fsevents\",\"bugs\":{\"url\":\"https://github.com/fsevents/fsevents/issues\"},\"os\":[\"darwin\"],\"dist\":{\"shasum\":\"cac6407785d03675a2a5e1a5305c697b347d90d6\",\"tarball\":\"https://registry.npmjs.org/fsevents/-/fsevents-2.3.3.tgz\",\"fileCount\":6,\"integrity\":\"sha512-5xoDfX+fL7faATnagmWPpbFtwh/R77WmMMqqHGS65C3vvB0YHrgF+B1YmZ3441tMj5n63k0212XNoJwzlhffQw==\",\"signatures\":[{\"sig\":\"MEUCIBqKmzRJwFJcSLXc/SdNTdFsUQvsS/tX+pFHr2JkniDbAiEAiTjoxV3W2IK2g8Udbes/ZP46+TtL40PX3IX/bxosfWs=\",\"keyid\":\"SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA\"}],\"unpackedSize\":173224},\"main\":\"fsevents.js\",\"types\":\"fsevents.d.ts\",\"engines\":{\"node\":\"^8.16.0 || ^10.6.0 || >=11.0.0\"},\"gitHead\":\"2db891e51aa0f2975c5eaaf6aa30f13d720a830a\",\"gypfile\":true,\"scripts\":{\"test\":\"/bin/bash ./test.sh 2>/dev/null\",\"build\":\"node-gyp clean && rm -f fsevents.node && node-gyp rebuild && node-gyp clean\",\"clean\":\"node-gyp clean && rm -f fsevents.node\",\"install\":\"node-gyp rebuild\",\"prepublishOnly\":\"npm run build\"},\"_npmUser\":{\"name\":\"pipobscure\",\"email\":\"pip@pipobscure.com\"},\"repository\":{\"url\":\"git+https://github.com/fsevents/fsevents.git\",\"type\":\"git\"},\"_npmVersion\":\"9.6.7\",\"description\":\"Native Access to MacOS FSEvents\",\"directories\":{},\"_nodeVersion\":\"18.17.1\",\"_hasShrinkwrap\":false,\"devDependencies\":{\"node-gyp\":\"^9.4.0\"},\"_npmOperationalInternal\":{\"tmp\":\"tmp/fsevents_2.3.3_1692635062642_0.01197687980904627\",\"host\":\"s3://npm-registry-packages\"}}}}",
+    "dest": "deno_dir/npm/registry.npmjs.org/fsevents",
+    "dest-filename": "registry.json"
+  },
+  {
+    "type": "archive",
+    "archive-type": "tar-gzip",
+    "url": "https://registry.npmjs.org/fsevents/-/fsevents-2.3.3.tgz",
+    "sha512": "e71a037d7f9f2fb7da0139da82658fa5b16dc21fd1efb5a630caaa1c64bae42defbc1d181eb805f81d58999df8e35b4c8f99fade4d36d765cda09c339617df43",
+    "dest": "deno_dir/npm/registry.npmjs.org/fsevents/2.3.3"
   },
   {
     "type": "inline",
