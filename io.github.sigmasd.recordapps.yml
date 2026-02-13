@@ -34,8 +34,8 @@ modules:
     sources:
       # app
       - type: archive
-        url: https://github.com/sigmaSd/recordapps/archive/refs/tags/1.11.0.tar.gz
-        sha256: ab58c2e78d7986a72a997b50aa04c50e736331bc0a45ea46942300433a9a8195
+        url: https://github.com/sigmaSd/recordapps/archive/refs/tags/1.12.0.tar.gz
+        sha256: b97c39b37268fb5754d9c8e222b3ba8088b212f52602a38f1a5e1a89415dcaac
 
       # deno
       - type: archive
