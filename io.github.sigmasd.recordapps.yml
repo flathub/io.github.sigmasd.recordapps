@@ -20,6 +20,7 @@ modules:
         DENORT_BIN: denort
     build-commands:
       -  # compile App
+      - ./deno cache npm:vite
       - ./deno task frontend:build
       - ./deno compile --cached-only --vendor -o record --include src/webview/app.worker.ts --include src/dist -A src/webview/webview.ts
       - install -Dm755 record /app/bin/record
