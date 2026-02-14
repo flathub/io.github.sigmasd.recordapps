@@ -34,28 +34,28 @@ modules:
     sources:
       # app
       - type: archive
-        url: https://github.com/sigmaSd/recordapps/archive/refs/tags/1.12.1.tar.gz
-        sha256: ca617c41a85dd333d2e6b9da2251d4431dde9550c7081c42d23aa7ccd7a67fa0
+        url: https://github.com/sigmaSd/recordapps/archive/refs/tags/1.13.0.tar.gz
+        sha256: 575dd8c82bb5bb4936e7a6d36ab934ba9f4c248a1e3bb3dd2e218fd82b13c52d
 
       # deno
       - type: archive
-        url: https://github.com/denoland/deno/releases/download/v2.3.1/deno-x86_64-unknown-linux-gnu.zip
-        sha256: b2920265e633215959b09a32b67f46c93362842bbfd27c96e8acc2d24b66f563
+        url: https://github.com/denoland/deno/releases/download/v2.6.9/deno-x86_64-unknown-linux-gnu.zip
+        sha256: 8a677a4b0cea1a25aaecfc70d6c6a288f9ad69af0a92e9e9d513cabaaf3c688f
         only-arches:
           - x86_64
       - type: archive
-        url: https://github.com/denoland/deno/releases/download/v2.3.1/denort-x86_64-unknown-linux-gnu.zip
-        sha256: 611c72c6e3de743c3f04eeb5f43cfb94dee7a232c7142d63f1967478bd220d11
+        url: https://github.com/denoland/deno/releases/download/v2.6.9/denort-x86_64-unknown-linux-gnu.zip
+        sha256: 55867c8f1c489f474d7465aa3b120cd28535fdcb08b18c90090ee91d43e5e251
         only-arches:
           - x86_64
       - type: archive
-        url: https://github.com/denoland/deno/releases/download/v2.3.1/deno-aarch64-unknown-linux-gnu.zip
-        sha256: 3771ede34037694591846166f6211e7a8ab5cd77a1e7143e637d4457e8708dc7
+        url: https://github.com/denoland/deno/releases/download/v2.6.9/deno-aarch64-unknown-linux-gnu.zip
+        sha256: d1cd2f5f08abdc22156b67fc1cd9e8dcd2e8e3ab5caffe1da603992c8b1b5d67
         only-arches:
           - aarch64
       - type: archive
-        url: https://github.com/denoland/deno/releases/download/v2.3.1/denort-aarch64-unknown-linux-gnu.zip
-        sha256: bec92b837f50d0330a532a53fcbcf8383eed3d5e4575d893cca59c50d4724c1f
+        url: https://github.com/denoland/deno/releases/download/v2.6.9/denort-aarch64-unknown-linux-gnu.zip
+        sha256: 652839887c6ba39186d258002bc6126f2aaf78317fb4aa140ec6acbcaf3f9a37
         only-arches:
           - aarch64
 
